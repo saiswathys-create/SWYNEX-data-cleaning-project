@@ -1,0 +1,531 @@
+OrderID,CustomerName,Email,Gender,Country,SignupDate,ProductCategory,Quantity,Price,OrderDate,Status
+ORD1062,Linda Gonzalez,linda.gonzalez@example.com,M,Canada,"October 21, 2021",Clothing,8 units,$44.22,"July 29, 2022",delivered
+ORD1242,David Martinez,david.martinez@example.com,F,canada,17-03-2021,Books,7 units,$478.02,11/24/2021,Returned
+ORD1288,William Martinez,william.martinez@example.com,MALE,,01/24/2021,Books,4,29.64,2021-04-11,Pending
+ORD1311,Linda Brown,linda.brown@example.com,FEMALE,australia,"March 05, 2021",Books,4,265.5,24-09-2021,returned
+ORD1170,Barbara Miller,barbara.miller@example.com,male,germany,2021-07-05,Toys,8 units,$337.48,"April 29, 2022",pending
+ORD1480,Thomas Jones,thomas.jones@example.com,Female,uk,2023-02-04,Toys,6,$418.87,2023-03-22,Delivered
+ORD1011,Robert Garcia,robert.garcia@example.com,MALE,Germany,2021-02-10,Toys,10,106.11,09/01/2021,pending
+ORD1303,  Richard Wilson  ,richard.wilson@example.com,FEMALE,UK,2023-02-07,Clothing,3,54.95,07/13/2023,Canceled
+ORD1195,Linda Rodriguez,linda.rodriguez@example.com,FEMALE,USA,"April 24, 2021",Home & Kitchen,10,,16-06-2021,Pending
+ORD1304,James Lopez,james.lopez@example.com,male,Germany,"December 12, 2021",Clothing,2,496.86,11-01-2023,Canceled
+ORD1181,Patricia Davis,patricia.davis@example.com,Male,australia,2022-09-21,Sports,1,238.48,02/03/2023,Pending
+ORD1017,Charles Miller,charles.miller@example.com, Male,DE,01/30/2023,Electronics,6,66.69,"January 07, 2024",pending
+ORD1451,Robert Rodriguez,robert.rodriguez@example.com,MALE,canada,05/11/2021,Clothing,10,$329.03,23-12-2021,DELIVERED
+ORD1088,Sarah Gonzalez,sarah.gonzalez@example.com,Male,canada,"July 12, 2022",Clothing,4,98.3,"July 29, 2022",Delivered
+ORD1015,Jennifer Wilson,JENNIFER.WILSON@EXAMPLE.COM,FEMALE,U.K.,2022-12-20,Electronics,8,232.85,04/16/2023,DELIVERED
+ORD1241,James Williams,JAMES.WILLIAMS@EXAMPLE.COM,MALE,canada,2021-01-25,Toys,4,$355.5,"April 02, 2021",Cancelled
+ORD1028,Jessica Lopez,jessica.lopez@example.com,F,canada,05/04/2021,Sports,9,99.81,02-03-2022,Delivered
+ORD1113,William Smith,william.smith@example.com,MALE,Canada,02/12/2022,Clothing,8,172.19,19-10-2022,Delivered
+ORD1331,Barbara Lopez,barbara.lopez@example.com,Female,UK,23-01-2022,Books,4,295.73,10-04-2022,Cancelled
+ORD1038,Susan Jones,susan.jones@example.com,F,AUS,"December 03, 2021",Sports,8 units,38.87,2022-03-30,Returned
+ORD1082,Robert Davis,robert.davis@example.com,male,United Kingdom,"February 11, 2022",Sports,5 units,$286.14,"July 07, 2022",Returned
+ORD1186,Michael Davis,michael.davis@example.com,Male,,2023-05-28,Home & Kitchen,10,441.09,30-08-2023,Returned
+ORD1133,Karen Davis,karen.davis@example.com,female,USA,11/24/2021,Electronics,6,$128.52,2022-01-19,delivered
+ORD1231,  Jessica Gonzalez  ,jessica.gonzalez@example.com,FEMALE,CANADA,2021-06-27,Sports,10,300.06,02/10/2022,pending
+ORD1458,John Garcia,john.garcia@example.com,male,DE,"October 27, 2022",Books,3,$472.66,2023-04-20,returned
+ORD1402,Robert Davis,robert.davis@example.com,M,germany,2021-07-04,Books,7,162.06,"June 29, 2022",delivered
+ORD1104,Sarah Williams,sarah.williams@example.com,female,US,"November 25, 2022",Home & Kitchen,7 units,114.89,11/13/2023,returned
+ORD1058,  Richard Martinez  ,richard.martinez@example.com,M,U.K.,"November 03, 2022",Sports,2,396.87,2023-11-17,returned
+ORD1319,Michael Martinez,MICHAEL.MARTINEZ@EXAMPLE.COM,M,USA,"October 14, 2021",Toys,6,319.41,03/03/2022,pending
+ORD1252,  Patricia Davis  ,patricia.davis@example.com,female,germany,03/23/2022,Toys,8,$231.58,08/09/2022,Pending
+ORD1130,  Richard Lopez  ,richard.lopez@example.com,male,CANADA,2022-08-29,Home & Kitchen,10,98.18,09-05-2023,cancelled
+ORD1176,Jennifer Lopez,jennifer.lopez@example.com,MALE,usa,05/06/2022,Sports,7 units,$288.88,05/27/2022,Delivered
+ORD1450,Charles Gonzalez,CHARLES.GONZALEZ@EXAMPLE.COM,F,Germany,06-08-2022,Clothing,8,235.89,05/18/2023,Returned
+ORD1255,Linda Williams,,female,Canada,2021-04-03,Home & Kitchen,3,$374.91,05/04/2022,Returned
+ORD1428,Linda Wilson,linda.wilson@example.com,MALE,CANADA,04/06/2022,Sports,6,211.56,28-04-2022,delivered
+ORD1198,Michael Brown,michael.brown@example.com,male,Germany,2021-09-06,Toys,8,$386.54,24-08-2022,Delivered
+ORD1122,William Rodriguez,william.rodriguez@example.com, Male,USA,2022-06-13,Electronics,8,$158.8,12/19/2022,PENDING
+ORD1112,Susan Johnson,susan.johnson@example.com,male,Canada,"November 24, 2022",Toys,5,42.38,19-06-2023,pending
+ORD1363,Jennifer Thomas,jennifer.thomas@example.com,Male,canada,"December 23, 2021",Toys,5,352.05,2022-06-07,pending
+ORD1400,William Garcia,william.garcia@example.com, Female ,United States,"March 02, 2023",Books,5,462.46,2023-11-07,pending
+ORD1103,Elizabeth Williams,elizabeth.williams@example.com,FEMALE,Canada,"June 07, 2021",Electronics,8,203.4,"May 28, 2022",delivered
+ORD1212,Jessica Gonzalez,,F,U.K.,03-10-2022,Electronics,9,174.18,"October 12, 2023",cancelled
+ORD1455,Patricia Davis,patricia.davis@example.com,F,DE,"January 06, 2022",Books,7,493.44,08/03/2022,pending
+ORD1127,Barbara Williams,barbara.williams@example.com,Male,uk,05-04-2021,Books,1,,"March 21, 2022",cancelled
+ORD1323,James Rodriguez,james.rodriguez@example.com,MALE,U.S.A,21-02-2022,Toys,8,,"September 25, 2022",Pending
+ORD1396,Jennifer Williams,jennifer.williams@example.com,FEMALE,United Kingdom,"October 25, 2022",Electronics,2,$424.07,2023-07-30,Delivered
+ORD1469,Linda Wilson,linda.wilson@example.com,,AUS,2022-01-17,Toys,1,188.06,07/07/2022,Delivered
+ORD1131,Mary Davis,,Female,Germany,12/15/2021,Home & Kitchen,1,459.03,2022-06-20,PENDING
+ORD1395,Mary Johnson,mary.johnson@example.com,Male,AUS,11-04-2022,Toys,5,82.62,06/15/2022,Returned
+ORD1442,Jennifer Martinez,jennifer.martinez@example.com,FEMALE,DE,"August 20, 2022",Home & Kitchen,1,104.25,03-12-2022,Delivered
+ORD1145,David Hernandez,david.hernandez@example.com,female,United Kingdom,"April 02, 2023",Sports,3,$498.75,2023-10-18,cancelled
+ORD1160,John Brown,john.brown@example.com, Female ,AUS,02/20/2023,Home & Kitchen,5,209.31,24-07-2023,Cancelled
+ORD1486,John Lopez,john.lopez@example.com,male,U.K.,07/09/2021,Books,2,,29-09-2021,delivered
+ORD1147,William Lopez,william.lopez@example.com,MALE,DE,"March 14, 2021",Toys,2,$152.69,05/24/2021,pending
+ORD1202,Robert Smith,robert.smith@example.com,Female,U.S.A,02-03-2022,Electronics,10 units,39.84,2022-11-23,DELIVERED
+ORD1263,Sarah Anderson,sarah.anderson@example.com,female,DE,27-02-2021,Sports,7,145.9,2021-12-12,Canceled
+ORD1500,Linda Garcia,linda.garcia@example.com,M,United States,"April 18, 2022",Toys,8,486.54,22-02-2023,Cancelled
+ORD1324,William Williams,william.williams@example.com,MALE,UK,2021-11-15,Electronics,1,298.3,03/24/2022,delivered
+ORD1411,John Anderson,john.anderson@example.com,male,U.K.,05/11/2023,Books,5,467.81,2024-03-03,delivered
+ORD1488,Linda Lopez,linda.lopez@example.com, Male,Australia,"May 22, 2021",Clothing,5,328.75,"December 07, 2021",delivered
+ORD1262,  Charles Jones  ,charles.jones@example.com,F,Australia,2022-07-19,Books,10,$50.78,05/14/2023,Pending
+ORD1489,Susan Garcia,susan.garcia@example.com,MALE,CANADA,"November 03, 2022",Electronics,3,195.08,"October 13, 2023",Returned
+ORD1249,  Robert Smith  ,ROBERT.SMITH@EXAMPLE.COM,FEMALE,AUS,27-05-2021,Books,4,$23.62,12-07-2021,pending
+ORD1117,Sarah Martinez,sarah.martinez@example.com,female,Germany,2021-10-30,Clothing,8,$320.85,06-11-2021,Pending
+ORD1464,Elizabeth Wilson,elizabeth.wilson@example.com,Female,CANADA,"December 15, 2022",Books,8,$19.34,2023-07-13,pending
+ORD1074,Patricia Rodriguez,patricia.rodriguez@example.com,M,germany,06/06/2023,Toys,6,498.0,2024-02-16,delivered
+ORD1370,Susan Gonzalez,SUSAN.GONZALEZ@EXAMPLE.COM,M,US,2021-12-04,Home & Kitchen,5,$140.46,"March 28, 2022",Delivered
+ORD1244,Jessica Thomas,jessica.thomas@example.com, Male,AUS,2022-05-09,Home & Kitchen,6,317.97,07-02-2023,delivered
+ORD1299,Jennifer Miller,jennifer.miller@example.com,Female,United States,01/14/2021,Books,7,302.93,26-11-2021,returned
+ORD1167,Sarah Smith,sarah.smith@example.com,MALE,uk,,Sports,6 units,$93.11,10-07-2021,returned
+ORD1355,Patricia Anderson,patricia.anderson@example.com,Male,U.K.,"June 12, 2023",Toys,2,150.1,2023-12-05,cancelled
+ORD1357,Richard Johnson,richard.johnson@example.com,Male,AUS,2021-05-23,Toys,5,128.03,"January 22, 2022",Cancelled
+ORD1154,Karen Rodriguez,karen.rodriguez@example.com,female,australia,"January 30, 2022",Sports,3,34.03,"September 01, 2022",Returned
+ORD1245,Elizabeth Miller,,female,Australia,"January 03, 2022",Sports,8,100.58,"September 11, 2022",DELIVERED
+ORD1438,Jessica Garcia,jessica.garcia@example.com,female,DE,"September 25, 2022",Electronics,3,252.22,01/22/2023,Delivered
+ORD1335,Michael Hernandez,michael.hernandez@example.com,F,Germany,,Home & Kitchen,5,204.89,2024-01-12,Returned
+ORD1158,William Thomas,william.thomas@example.com,Female,United Kingdom,30-04-2023,Home & Kitchen,2,74.52,24-06-2023,Cancelled
+ORD1250,Linda Miller,linda.miller@example.com, Male,DE,02/28/2023,Clothing,2,484.44,2024-02-07,DELIVERED
+ORD1269,  John Smith  ,john.smith@example.com,female,DE,12/17/2021,Electronics,2,$75.47,2022-02-22,Returned
+ORD1405,James Miller,james.miller@example.com,M,Canada,04/15/2022,Home & Kitchen,2,135.09,"June 19, 2022",Delivered
+ORD1282,  Karen Davis  ,karen.davis@example.com,Male,canada,"March 23, 2022",Electronics,4,132.91,2022-06-22,Returned
+ORD1350,Michael Rodriguez,michael.rodriguez@example.com,FEMALE,australia,"September 17, 2022",Books,1,46.2,06/20/2023,cancelled
+ORD1108,Elizabeth Williams,elizabeth.williams@example.com,M,CANADA,"February 02, 2022",Toys,7,271.0,05/02/2022,returned
+ORD1081,  Linda Davis  ,linda.davis@example.com,male,australia,,Toys,3,439.81,08-09-2021,PENDING
+ORD1498,William Gonzalez,william.gonzalez@example.com,F,Australia,"July 01, 2021",Toys,6,$343.26,"February 01, 2022",Returned
+ORD1041,  Richard Rodriguez  ,RICHARD.RODRIGUEZ@EXAMPLE.COM, Male,Canada,12/27/2021,Toys,5,331.29,2022-11-14,pending
+ORD1052,Karen Johnson,karen.johnson@example.com,FEMALE,australia,2022-06-09,Electronics,5,265.83,2023-04-12,Delivered
+ORD1162,Mary Miller,mary.miller@example.com,F,U.S.A,2022-07-09,Books,2,$283.13,01/25/2023,PENDING
+ORD1306,Barbara Hernandez,barbara.hernandez@example.com,MALE,USA,01-05-2022,Clothing,2,210.43,"May 22, 2023",Cancelled
+ORD1044,Mary Martinez,mary.martinez@example.com, Male,australia,"January 31, 2023",Sports,3,417.68,2023-06-24,Pending
+ORD1059,Elizabeth Garcia,elizabeth.garcia@example.com,female,UK,2023-05-15,Toys,9,$384.32,08/07/2023,Canceled
+ORD1393,James Lopez,james.lopez@example.com,Male,Canada,"May 28, 2021",Clothing,1,$349.41,"May 20, 2022",Pending
+ORD1125,David Davis,david.davis@example.com,male,australia,04-05-2021,Clothing,8,$64.36,2022-04-30,cancelled
+ORD1416,William Wilson,william.wilson@example.com,male,Canada,2021-05-06,Electronics,6,$164.17,09/29/2021,Cancelled
+ORD1420,Mary Brown,MARY.BROWN@EXAMPLE.COM,F,australia,"May 22, 2021",Home & Kitchen,3,483.09,07/24/2021,returned
+ORD1067,  Susan Garcia  ,susan.garcia@example.com,M,australia,2023-03-22,Sports,7,341.31,"January 28, 2024",Delivered
+ORD1365,William Wilson,william.wilson@example.com,,uk,12/06/2022,Books,2,$326.9,2023-06-13,Delivered
+ORD1382,Thomas Lopez,thomas.lopez@example.com,Female,United Kingdom,11/02/2022,Books,2,174.73,02/14/2023,Delivered
+ORD1046,Linda Hernandez,linda.hernandez@example.com,M,UK,03/29/2023,Electronics,3,122.78,04/25/2023,Returned
+ORD1102,Michael Thomas,michael.thomas@example.com,F,AUS,"November 30, 2021",Books,6,298.15,2022-09-08,Returned
+ORD1379,Thomas Garcia,thomas.garcia@example.com,female,Australia,2023-03-13,Toys,10,297.64,"May 20, 2023",delivered
+ORD1048,Robert Jones,robert.jones@example.com,FEMALE,germany,"September 12, 2022",Sports,2,385.64,05/02/2023,returned
+ORD1360,Sarah Thomas,sarah.thomas@example.com, Male,Germany,"January 22, 2022",Toys,7,$62.27,02/06/2023,DELIVERED
+ORD1016,William Rodriguez,william.rodriguez@example.com,F,AUS,04-07-2022,Electronics,5,$136.41,13-07-2023,Returned
+ORD1240,Mary Brown,mary.brown@example.com, Female ,canada,2023-04-02,Toys,7,124.69,25-12-2023,cancelled
+ORD1138,Robert Gonzalez,robert.gonzalez@example.com,Male,Australia,06/21/2021,Clothing,1,220.52,22-04-2022,PENDING
+ORD1228,Patricia Miller,patricia.miller@example.com,female,CANADA,14-03-2021,Home & Kitchen,9,238.01,2021-04-11,returned
+ORD1412,Patricia Brown,patricia.brown@example.com,Male,Canada,2022-05-18,Books,2,445.41,08/09/2022,Pending
+ORD1068,Barbara Lopez,barbara.lopez@example.com,MALE,canada,08/11/2022,Books,6,61.16,2023-02-26,pending
+ORD1426,David Williams,david.williams@example.com, Male,,06/14/2023,Electronics,1,418.5,2023-08-29,delivered
+ORD1391,Jessica Lopez,jessica.lopez@example.com,Male,UK,"February 04, 2022",Books,2,$364.72,04/11/2022,returned
+ORD1390,Patricia Davis,patricia.davis@example.com,Female,U.S.A,2021-03-28,Clothing,7,$341.32,30-08-2021,Pending
+ORD1388,James Brown,,Male,U.S.A,2022-10-05,Electronics,2,$427.1,"October 29, 2023",cancelled
+ORD1272,Susan Miller,susan.miller@example.com,Female,Germany,05-01-2022,Electronics,2,145.39,08/21/2022,returned
+ORD1366,  Jessica Davis  ,JESSICA.DAVIS@EXAMPLE.COM,F,US,"May 11, 2022",Clothing,2,431.79,2023-05-05,returned
+ORD1327,Patricia Brown,PATRICIA.BROWN@EXAMPLE.COM, Male,germany,"May 08, 2022",Clothing,1,220.74,10/15/2022,cancelled
+ORD1203,Richard Miller,richard.miller@example.com, Male,AUS,16-10-2022,Sports,7,94.3,"January 05, 2023",pending
+ORD1128,Jennifer Rodriguez,jennifer.rodriguez@example.com, Male,U.K.,"July 18, 2022",Home & Kitchen,7,442.9,2023-04-23,returned
+ORD1496,Barbara Williams,barbara.williams@example.com,F,canada,01/31/2021,Clothing,10,$497.93,"November 12, 2021",cancelled
+ORD1295,Karen Anderson,karen.anderson@example.com,male,canada,2023-02-01,Toys,7,123.84,02/12/2023,cancelled
+ORD1483,Elizabeth Miller,elizabeth.miller@example.com,Female,U.K.,2021-09-25,Toys,3,164.88,13-10-2021,DELIVERED
+ORD1371,Elizabeth Thomas,elizabeth.thomas@example.com, Female ,United States,"February 09, 2023",Sports,9,204.31,01/27/2024,Cancelled
+ORD1156,Richard Jones,richard.jones@example.com,Male,uk,06/10/2023,Books,6,$29.92,01/03/2024,delivered
+ORD1137,Richard Lopez,,FEMALE,CANADA,2023-02-10,Home & Kitchen,9,$117.62,"November 05, 2023",Returned
+ORD1267,Mary Rodriguez,mary.rodriguez@example.com,Female,DE,06/11/2022,Clothing,2,164.69,13-11-2022,Pending
+ORD1340,John Anderson,john.anderson@example.com, Male,germany,2022-08-13,Home & Kitchen,8,397.21,"November 11, 2022",Cancelled
+ORD1135,Robert Hernandez,robert.hernandez@example.com,Female,uk,14-04-2021,Clothing,7,$366.34,2021-08-14,delivered
+ORD1210,Elizabeth Anderson,elizabeth.anderson@example.com,male,CANADA,01/18/2023,Sports,1,$265.77,01-05-2023,delivered
+ORD1211,James Williams,james.williams@example.com,,Australia,2022-06-05,Books,10,252.82,2022-06-17,Canceled
+ORD1499,Karen Davis,karen.davis@example.com, Male,Australia,09/13/2021,Books,2 units,302.66,06/02/2022,cancelled
+ORD1238,Charles Jones,charles.jones@example.com,M,uk,2022-06-25,Electronics,3,419.62,01/08/2023,Returned
+ORD1440,Jennifer Wilson,jennifer.wilson@example.com,Male,,2021-05-24,Books,10 units,96.73,"April 18, 2022",Cancelled
+ORD1084,Linda Smith,linda.smith@example.com,F,Germany,01/04/2022,Electronics,8,253.75,2022-06-13,pending
+ORD1119,Thomas Miller,thomas.miller@example.com,FEMALE,U.S.A,01/18/2023,Electronics,7,32.24,2023-04-18,DELIVERED
+ORD1348,Karen Anderson,karen.anderson@example.com,F,US,01-03-2022,Clothing,6,31.77,02/16/2023,returned
+ORD1171,Linda Brown,linda.brown@example.com,M,CANADA,12/12/2022,Home & Kitchen,6,160.04,"November 06, 2023",pending
+ORD1418,Charles Smith,charles.smith@example.com,Female,Germany,2021-01-17,Books,5,203.17,2021-11-27,returned
+ORD1386,David Garcia,,MALE,CANADA,07/19/2022,Clothing,6,404.83,"November 15, 2022",Pending
+ORD1377,Susan Smith,susan.smith@example.com,Male,USA,01-02-2023,Clothing,4,$491.55,10/13/2023,pending
+ORD1204,William Lopez,william.lopez@example.com, Female ,Germany,18-07-2022,Books,8 units,,26-09-2022,delivered
+ORD1060,Susan Lopez,susan.lopez@example.com, Female ,Australia,"November 13, 2021",Clothing,6,223.1,"July 29, 2022",Cancelled
+ORD1234,John Miller,john.miller@example.com,FEMALE,,2022-10-26,Books,7,72.92,"October 18, 2023",cancelled
+ORD1106,Patricia Smith,patricia.smith@example.com,male,Germany,"March 13, 2022",Books,3,200.81,"October 30, 2022",Returned
+ORD1280,Patricia Hernandez,patricia.hernandez@example.com,FEMALE,U.S.A,"November 04, 2021",Home & Kitchen,4,260.11,11/14/2021,Returned
+ORD1056,Joseph Martinez,joseph.martinez@example.com, Female ,,13-01-2022,Electronics,10,292.26,"February 04, 2022",cancelled
+ORD1091,Sarah Wilson,sarah.wilson@example.com,MALE,U.K.,06-04-2022,Sports,4,$304.46,05/01/2023,Returned
+ORD1169,James Thomas,james.thomas@example.com, Female ,U.K.,26-03-2023,Electronics,9,25.68,2024-01-01,Pending
+ORD1057,Thomas Jones,thomas.jones@example.com,Female,United Kingdom,"March 25, 2022",Toys,3,196.77,21-04-2022,delivered
+ORD1408,  Susan Miller  ,susan.miller@example.com,Female,Australia,"March 24, 2023",Sports,7,$115.85,07-08-2023,Returned
+ORD1190,Barbara Miller,barbara.miller@example.com,M,germany,2022-04-03,Home & Kitchen,8,87.95,"February 21, 2023",Delivered
+ORD1089,Patricia Johnson,patricia.johnson@example.com,male,australia,2021-08-11,Home & Kitchen,4,162.86,01/23/2022,Pending
+ORD1300,John Smith,john.smith@example.com,Male,UK,10/04/2022,Books,3 units,$87.22,"June 10, 2023",delivered
+ORD1025,Richard Gonzalez,richard.gonzalez@example.com,Male,CANADA,2021-05-04,Books,6,11.26,12-12-2021,Returned
+ORD1115,Patricia Smith,patricia.smith@example.com, Male,United States,2023-04-17,Books,3,49.22,23-10-2023,cancelled
+ORD1140,Susan Rodriguez,susan.rodriguez@example.com,Female,Australia,,Home & Kitchen,4,137.95,04-05-2023,pending
+ORD1463,Sarah Miller,, Female ,Germany,05/11/2022,Clothing,5,316.86,2022-10-10,Cancelled
+ORD1032,John Rodriguez,john.rodriguez@example.com,M,germany,25-04-2022,Home & Kitchen,9,301.03,01-03-2023,Delivered
+ORD1383,Sarah Rodriguez,sarah.rodriguez@example.com,F,usa,2022-03-06,Home & Kitchen,3,35.09,"September 26, 2022",Delivered
+ORD1445,Linda Wilson,linda.wilson@example.com,Male,United Kingdom,"May 10, 2021",Electronics,6,$125.9,2022-01-11,Delivered
+ORD1343,Sarah Davis,sarah.davis@example.com,F,United Kingdom,01-07-2021,Sports,7,$10.55,10/01/2021,DELIVERED
+ORD1205,Michael Hernandez,MICHAEL.HERNANDEZ@EXAMPLE.COM, Female ,DE,"February 08, 2021",Clothing,5,120.33,09/01/2021,DELIVERED
+ORD1287,Jennifer Anderson,jennifer.anderson@example.com,female,CANADA,06/11/2021,Sports,3,397.36,06/23/2022,Pending
+ORD1491,Joseph Wilson,JOSEPH.WILSON@EXAMPLE.COM,MALE,US,"September 16, 2021",Home & Kitchen,1,$181.66,2022-08-08,delivered
+ORD1248,John Hernandez,john.hernandez@example.com, Male,United States,"February 15, 2023",Home & Kitchen,9,$293.08,"January 05, 2024",Cancelled
+ORD1165,Linda Garcia,linda.garcia@example.com,MALE,Australia,07-08-2021,Home & Kitchen,4,240.05,2022-07-06,DELIVERED
+ORD1291,Barbara Johnson,BARBARA.JOHNSON@EXAMPLE.COM,F,Canada,2022-07-27,Home & Kitchen,3,$439.56,"April 25, 2023",cancelled
+ORD1068,Barbara Lopez,barbara.lopez@example.com,MALE,canada,08/11/2022,Books,6,61.16,2023-02-26,pending
+ORD1257,  Joseph Johnson  ,joseph.johnson@example.com, Male,UK,2021-09-02,Sports,10,377.82,"January 17, 2022",Pending
+ORD1129,Jessica Lopez,jessica.lopez@example.com,F,CANADA,11-04-2023,Books,9,$120.22,13-08-2023,Delivered
+ORD1098,John Williams,john.williams@example.com,Male,U.S.A,"September 21, 2022",Home & Kitchen,1,$228.02,"April 02, 2023",Canceled
+ORD1124,Mary Jones,mary.jones@example.com, Male,canada,2021-03-28,Sports,7,220.32,09-08-2021,returned
+ORD1219,Jennifer Hernandez,jennifer.hernandez@example.com,male,United Kingdom,"November 13, 2021",Clothing,2,,"July 26, 2022",DELIVERED
+ORD1482,Michael Rodriguez,michael.rodriguez@example.com,F,Canada,16-08-2022,Sports,9,$416.71,03/02/2023,Canceled
+ORD1461,Patricia Anderson,patricia.anderson@example.com,male,U.S.A,02/02/2023,Home & Kitchen,3,317.16,30-01-2024,delivered
+ORD1289,Patricia Smith,patricia.smith@example.com,FEMALE,UK,13-04-2023,Books,7,302.04,03/25/2024,Returned
+ORD1311,Linda Brown,linda.brown@example.com,FEMALE,australia,"March 05, 2021",Books,4,265.5,24-09-2021,returned
+ORD1099,Richard Williams,richard.williams@example.com,Male,uk,10/12/2022,Home & Kitchen,6 units,157.59,2022-12-19,cancelled
+ORD1314,Karen Jones,karen.jones@example.com,FEMALE,U.K.,"October 02, 2022",Books,6,445.57,2022-12-26,PENDING
+ORD1187,John Johnson,john.johnson@example.com, Male,uk,"December 17, 2022",Electronics,1,54.87,23-03-2023,cancelled
+ORD1330,Charles Lopez,,M,CANADA,05/18/2023,Electronics,3,15.39,14-07-2023,cancelled
+ORD1341,Susan Anderson,susan.anderson@example.com,MALE,USA,11-06-2021,Toys,5 units,364.64,2022-01-08,Pending
+ORD1344,Joseph Johnson,joseph.johnson@example.com,MALE,Australia,"February 19, 2021",Clothing,6,,2021-05-29,Cancelled
+ORD1178,Richard Jones,richard.jones@example.com,female,uk,2022-09-07,Toys,9 units,331.4,"September 08, 2022",returned
+ORD1261,William Jones,william.jones@example.com, Male,canada,04/05/2022,Electronics,1,76.97,08-04-2022,pending
+ORD1147,William Lopez,william.lopez@example.com,MALE,DE,"March 14, 2021",Toys,2,$152.69,05/24/2021,pending
+ORD1281,Joseph Rodriguez,joseph.rodriguez@example.com, Female ,US,04/19/2022,Sports,5,430.79,17-11-2022,PENDING
+ORD1397,Elizabeth Miller,elizabeth.miller@example.com,male,DE,,Home & Kitchen,2 units,$181.54,29-06-2023,returned
+ORD1334,  Joseph Wilson  ,joseph.wilson@example.com,F,uk,2022-10-23,Electronics,5,323.61,2022-12-13,delivered
+ORD1322,Karen Miller,KAREN.MILLER@EXAMPLE.COM,Female,DE,07/20/2022,Toys,10 units,$68.48,05/08/2023,Pending
+ORD1274,Richard Brown,richard.brown@example.com,F,DE,"March 20, 2023",Sports,10,$258.15,22-05-2023,returned
+ORD1271,Thomas Davis,thomas.davis@example.com, Male,U.K.,2023-02-12,Electronics,4,239.98,2024-01-23,cancelled
+ORD1273,Susan Miller,susan.miller@example.com,F,AUS,2022-03-25,Books,7,372.01,09/28/2022,Pending
+ORD1190,Barbara Miller,barbara.miller@example.com,M,germany,2022-04-03,Home & Kitchen,8,87.95,"February 21, 2023",Delivered
+ORD1109,William Anderson,william.anderson@example.com,MALE,AUS,"May 22, 2022",Books,8 units,20.28,10/10/2022,Pending
+ORD1305,Karen Brown,karen.brown@example.com,FEMALE,United States,2022-09-17,Electronics,9,436.08,"February 14, 2023",Returned
+ORD1191,Linda Hernandez,linda.hernandez@example.com, Female ,canada,"January 07, 2022",Clothing,1,129.57,04/25/2022,Returned
+ORD1004,Mary Hernandez,mary.hernandez@example.com,female,AUS,09/29/2021,Toys,9,449.42,"December 09, 2021",Delivered
+ORD1358,William Smith,william.smith@example.com,FEMALE,australia,2023-03-25,Books,2,$101.56,2024-01-12,cancelled
+ORD1197,Linda Gonzalez,linda.gonzalez@example.com,male,US,"August 02, 2021",Home & Kitchen,6,373.64,06-04-2022,cancelled
+ORD1333,Charles Johnson,charles.johnson@example.com,female,canada,08/09/2022,Home & Kitchen,5,46.59,2023-06-04,returned
+ORD1083,Joseph Rodriguez,joseph.rodriguez@example.com,MALE,United Kingdom,21-03-2023,Clothing,3,205.72,2023-10-13,Cancelled
+ORD1285,Barbara Martinez,BARBARA.MARTINEZ@EXAMPLE.COM,Male,U.K.,13-11-2021,Sports,2,$223.99,24-03-2022,Delivered
+ORD1054,Richard Smith,richard.smith@example.com,F,USA,2022-02-15,Home & Kitchen,6,42.81,26-05-2022,PENDING
+ORD1444,Michael Gonzalez,michael.gonzalez@example.com,Female,AUS,"December 20, 2022",Electronics,8,452.26,01/19/2023,Cancelled
+ORD1085,Linda Jones,linda.jones@example.com,FEMALE,AUS,04/26/2023,Sports,10 units,226.14,2024-02-09,DELIVERED
+ORD1485,Elizabeth Johnson,elizabeth.johnson@example.com,MALE,CANADA,01/30/2021,Home & Kitchen,10,103.24,07-04-2021,Delivered
+ORD1180,William Wilson,william.wilson@example.com,F,AUS,"October 10, 2021",Books,9,188.26,17-03-2022,Returned
+ORD1139,Robert Williams,robert.williams@example.com,F,US,"March 12, 2023",Clothing,3,$482.59,2024-04-15,PENDING
+ORD1495,Karen Anderson,karen.anderson@example.com, Female ,Germany,24-11-2021,Clothing,8,$268.46,2022-06-19,DELIVERED
+ORD1478,Jessica Gonzalez,JESSICA.GONZALEZ@EXAMPLE.COM,F,Germany,"April 28, 2022",Books,9 units,19.27,05/10/2023,Cancelled
+ORD1320,Karen Hernandez,KAREN.HERNANDEZ@EXAMPLE.COM, Male,USA,"December 15, 2022",Toys,2,$43.37,"November 24, 2023",delivered
+ORD1075,Linda Miller,,FEMALE,australia,2023-05-18,Home & Kitchen,6,203.29,26-02-2024,delivered
+ORD1008,Linda Williams,linda.williams@example.com, Male,Australia,"January 11, 2023",Books,7 units,218.37,2024-01-20,Delivered
+ORD1457,Thomas Gonzalez,thomas.gonzalez@example.com, Female ,Canada,25-04-2023,Toys,2 units,370.68,"November 21, 2023",returned
+ORD1315,Sarah Williams,sarah.williams@example.com, Male,AUS,05/04/2021,Home & Kitchen,4,444.39,11-03-2022,Returned
+ORD1356,Patricia Smith,patricia.smith@example.com, Male,United States,2023-03-22,Toys,5,171.83,14-09-2023,cancelled
+ORD1024,Mary Smith,mary.smith@example.com, Male,uk,08/01/2022,Home & Kitchen,6,$375.22,2023-01-08,delivered
+ORD1141,Patricia Davis,patricia.davis@example.com,F,AUS,"July 12, 2021",Books,8,411.4,"December 19, 2021",Canceled
+ORD1155,Barbara Smith,barbara.smith@example.com,MALE,usa,06-03-2021,Electronics,9,284.68,2021-08-27,Returned
+ORD1368,James Davis,james.davis@example.com, Female ,germany,20-06-2022,Toys,4,$27.14,10/09/2022,Canceled
+ORD1192,Jessica Johnson,JESSICA.JOHNSON@EXAMPLE.COM,Male,United Kingdom,04-02-2022,Sports,5,,06-08-2022,returned
+ORD1318,John Martinez,john.martinez@example.com,male,UK,,Books,10,5.27,11-01-2023,returned
+ORD1019,Karen Hernandez,karen.hernandez@example.com,M,,"September 08, 2021",Electronics,8,101.25,01/11/2022,Delivered
+ORD1329,Patricia Anderson,patricia.anderson@example.com,female,UK,08/07/2021,Home & Kitchen,7,494.99,2021-08-23,cancelled
+ORD1051,Elizabeth Hernandez,elizabeth.hernandez@example.com, Male,USA,2021-02-01,Clothing,7,188.18,2021-11-19,Delivered
+ORD1039,Patricia Anderson,patricia.anderson@example.com,Male,U.S.A,03/18/2022,Books,10,91.66,03/03/2023,Returned
+ORD1194,Sarah Smith,sarah.smith@example.com,,australia,2023-03-27,Clothing,7,128.7,10/07/2023,Pending
+ORD1321,Richard Lopez,richard.lopez@example.com,Male,,2023-01-31,Sports,6,314.49,11-10-2023,delivered
+ORD1189,James Garcia,james.garcia@example.com,FEMALE,DE,04/12/2021,Home & Kitchen,8 units,$373.57,23-01-2022,Pending
+ORD1433,Richard Jones,,Female,CANADA,2022-09-01,Toys,8,65.11,2023-09-04,Canceled
+ORD1056,Joseph Martinez,joseph.martinez@example.com, Female ,,13-01-2022,Electronics,10,292.26,"February 04, 2022",cancelled
+ORD1361,William Gonzalez,, Male,australia,01/09/2022,Toys,10,271.46,06/10/2022,returned
+ORD1215,Barbara Williams,barbara.williams@example.com,F,australia,06/17/2021,Books,1,115.16,2021-09-30,cancelled
+ORD1006,Elizabeth Miller,elizabeth.miller@example.com, Male,United States,19-06-2023,Clothing,10 units,$245.57,07/16/2024,Canceled
+ORD1076,Sarah Rodriguez,sarah.rodriguez@example.com,male,australia,14-12-2021,Clothing,10,$27.43,"August 14, 2022",Canceled
+ORD1143,David Williams,david.williams@example.com, Male,UK,11/25/2022,Books,9,$384.95,10/23/2023,Delivered
+ORD1048,Robert Jones,robert.jones@example.com,FEMALE,germany,"September 12, 2022",Sports,2,385.64,05/02/2023,returned
+ORD1047,Jessica Anderson,jessica.anderson@example.com,MALE,Germany,07-06-2023,Electronics,1,$216.01,2024-01-21,delivered
+ORD1071,Barbara Jones,barbara.jones@example.com,male,United States,11/08/2021,Sports,4,447.99,30-09-2022,Canceled
+ORD1132,Richard Brown,richard.brown@example.com,MALE,AUS,26-12-2022,Toys,3,,"December 21, 2023",Delivered
+ORD1080,Sarah Rodriguez,sarah.rodriguez@example.com,FEMALE,U.K.,2023-01-02,Books,5,$414.84,05/22/2023,DELIVERED
+ORD1226,Mary Miller,mary.miller@example.com,MALE,UK,11-05-2022,Clothing,2,$339.98,"January 02, 2023",Delivered
+ORD1031,Robert Garcia,robert.garcia@example.com,Male,germany,26-08-2021,Sports,8,135.95,"December 06, 2021",DELIVERED
+ORD1012,Robert Smith,robert.smith@example.com,Male,germany,2021-12-24,Home & Kitchen,5,353.25,2022-11-24,PENDING
+ORD1398,Patricia Hernandez,patricia.hernandez@example.com, Male,United Kingdom,"January 27, 2022",Electronics,5,43.98,05/26/2022,Canceled
+ORD1151,Patricia Smith,PATRICIA.SMITH@EXAMPLE.COM,FEMALE,canada,2021-07-30,Sports,2,$304.79,2021-09-22,Pending
+ORD1230,William Hernandez,,Female,Australia,12/23/2021,Books,2,397.25,07/23/2022,Canceled
+ORD1479,  Patricia Johnson  ,patricia.johnson@example.com,Female,Canada,2023-01-26,Sports,6,493.2,"February 03, 2023",Returned
+ORD1297,Thomas Hernandez,thomas.hernandez@example.com,MALE,Germany,2022-03-24,Books,5,451.94,2022-08-23,Delivered
+ORD1116,John Jones,john.jones@example.com,MALE,UK,"September 23, 2022",Electronics,2,366.35,12/04/2022,PENDING
+ORD1026,Thomas Rodriguez,thomas.rodriguez@example.com,FEMALE,germany,2021-09-09,Books,4,335.75,02/23/2022,Returned
+ORD1465,Susan Gonzalez,susan.gonzalez@example.com,Female,U.K.,16-02-2021,Clothing,10,$390.88,26-12-2021,Canceled
+ORD1196,James Davis,,M,australia,2023-03-22,Clothing,1,$273.88,"July 29, 2023",Delivered
+ORD1225,William Lopez,william.lopez@example.com,M,Germany,02/03/2022,Home & Kitchen,6,47.96,07/08/2022,Pending
+ORD1307,Susan Wilson,susan.wilson@example.com,Female,US,28-03-2021,Clothing,7,331.79,27-04-2021,returned
+ORD1468,Susan Smith,SUSAN.SMITH@EXAMPLE.COM,Male,Australia,30-05-2023,Books,9,$232.16,"March 21, 2024",returned
+ORD1066,Susan Gonzalez,susan.gonzalez@example.com,F,AUS,28-03-2023,Sports,7,412.06,08-05-2023,pending
+ORD1292,Mary Jones,mary.jones@example.com,F,canada,19-02-2023,Books,3,$383.02,"January 22, 2024",Delivered
+ORD1477,Barbara Anderson,barbara.anderson@example.com,female,uk,2023-02-05,Home & Kitchen,9,167.58,2023-10-21,Pending
+ORD1270,Jessica Wilson,JESSICA.WILSON@EXAMPLE.COM,MALE,Canada,2022-11-15,Electronics,10,96.47,03-12-2023,pending
+ORD1070,Michael Jones,michael.jones@example.com, Female ,AUS,2021-03-30,Sports,8,$412.55,2022-02-22,returned
+ORD1094,  Barbara Garcia  ,barbara.garcia@example.com, Male,,2023-05-18,Sports,1,$422.06,05/23/2023,returned
+ORD1069,Michael Martinez,michael.martinez@example.com,Male,usa,"January 01, 2023",Sports,6,$277.25,03/23/2023,PENDING
+ORD1022,Charles Gonzalez,charles.gonzalez@example.com,FEMALE,AUS,07/14/2022,Home & Kitchen,7,336.09,03/11/2023,delivered
+ORD1078,Charles Davis,charles.davis@example.com, Male,germany,,Sports,2,212.3,"August 13, 2023",DELIVERED
+ORD1387,Robert Thomas,robert.thomas@example.com,male,,06/16/2021,Sports,10,216.07,2022-01-09,Canceled
+ORD1326,Susan Williams,,M,Australia,02/25/2022,Sports,10,398.61,2022-08-18,returned
+ORD1237,Karen Martinez,karen.martinez@example.com,MALE,Germany,2021-10-26,Electronics,3,$142.54,2022-03-07,DELIVERED
+ORD1452,Mary Rodriguez,, Female ,Germany,"March 21, 2021",Electronics,4,415.42,26-10-2021,Cancelled
+ORD1126,Linda Lopez,,F,United Kingdom,"May 26, 2023",Toys,4,$397.94,06/29/2024,Cancelled
+ORD1229,Karen Anderson,karen.anderson@example.com, Male,AUS,"April 13, 2023",Home & Kitchen,8,76.14,"October 17, 2023",Canceled
+ORD1447,John Davis,john.davis@example.com,M,United Kingdom,"December 17, 2022",Books,2,138.8,2023-01-30,PENDING
+ORD1043,  James Rodriguez  ,james.rodriguez@example.com, Female ,Canada,2022-04-28,Toys,6,36.29,"September 30, 2022",Delivered
+ORD1005,John Garcia,john.garcia@example.com,MALE,AUS,2022-07-21,Electronics,9,$173.39,23-07-2022,Canceled
+ORD1346,Karen Lopez,KAREN.LOPEZ@EXAMPLE.COM,F,Australia,03/22/2023,Electronics,10,197.34,30-05-2023,Canceled
+ORD1065,John Williams,john.williams@example.com,M,United Kingdom,"November 14, 2021",Toys,8,99.6,16-10-2022,Pending
+ORD1434,Jessica Jones,jessica.jones@example.com,M,usa,2021-07-25,Clothing,10,,"April 10, 2022",Returned
+ORD1110,Charles Thomas,charles.thomas@example.com,M,CANADA,"February 12, 2021",Books,2,,27-06-2021,delivered
+ORD1256,Barbara Anderson,,MALE,,13-03-2022,Toys,9,343.91,11-04-2022,Delivered
+ORD1438,Jessica Garcia,jessica.garcia@example.com,female,DE,"September 25, 2022",Electronics,3,252.22,01/22/2023,Delivered
+ORD1206,Jessica Garcia,jessica.garcia@example.com, Male,US,2023-03-10,Home & Kitchen,6,$465.47,2024-03-27,Returned
+ORD1148,Joseph Jones,joseph.jones@example.com,MALE,U.K.,"January 05, 2021",Clothing,10,$382.97,"November 26, 2021",returned
+ORD1007,Sarah Garcia,sarah.garcia@example.com,female,U.K.,19-11-2022,Toys,8,172.35,2023-03-12,DELIVERED
+ORD1430,James Johnson,james.johnson@example.com, Female ,Germany,01-01-2023,Sports,4,$148.95,"May 09, 2023",returned
+ORD1462,  Thomas Hernandez  ,thomas.hernandez@example.com,Male,germany,08/14/2021,Clothing,8,$144.89,05/06/2022,delivered
+ORD1339,William Wilson,william.wilson@example.com, Male,usa,06/06/2023,Clothing,5,240.02,04/02/2024,returned
+ORD1404,Richard Williams,richard.williams@example.com, Female ,Canada,"April 05, 2021",Home & Kitchen,3,243.4,"March 28, 2022",PENDING
+ORD1260,  Elizabeth Garcia  ,elizabeth.garcia@example.com,F,USA,04/12/2022,Clothing,9,420.47,06/30/2022,Cancelled
+ORD1283,Robert Hernandez,robert.hernandez@example.com,F,usa,01/12/2023,Toys,9,415.35,"May 21, 2023",Delivered
+ORD1123,Karen Davis,karen.davis@example.com,female,Germany,2022-02-24,Home & Kitchen,1 units,330.37,04/19/2022,cancelled
+ORD1079,Michael Hernandez,michael.hernandez@example.com,F,AUS,29-12-2021,Clothing,4,471.04,12/25/2022,returned
+ORD1443,Charles Johnson,charles.johnson@example.com, Female ,US,13-05-2021,Electronics,1,178.38,2021-09-07,Delivered
+ORD1417,Karen Williams,karen.williams@example.com,F,UK,,Home & Kitchen,7,302.71,01-06-2022,DELIVERED
+ORD1152,  Jessica Miller  ,jessica.miller@example.com,M,,05/24/2022,Books,6 units,$49.06,02/01/2023,DELIVERED
+ORD1323,James Rodriguez,james.rodriguez@example.com,MALE,U.S.A,21-02-2022,Toys,8,,"September 25, 2022",Pending
+ORD1164,Jennifer Brown,jennifer.brown@example.com,female,Canada,,Home & Kitchen,10,309.73,18-10-2023,DELIVERED
+ORD1378,Richard Jones,richard.jones@example.com,male,Germany,2021-08-31,Home & Kitchen,7,$219.99,"September 25, 2022",Canceled
+ORD1266,Linda Smith,linda.smith@example.com, Male,germany,09-06-2023,Books,2,$13.68,23-08-2023,Returned
+ORD1419,Joseph Thomas,joseph.thomas@example.com,M,United States,2023-04-26,Home & Kitchen,7 units,363.43,2024-01-27,delivered
+ORD1362,Elizabeth Jones,elizabeth.jones@example.com, Male,DE,"May 19, 2023",Clothing,8,34.11,05/20/2024,Canceled
+ORD1067,  Susan Garcia  ,susan.garcia@example.com,M,australia,2023-03-22,Sports,7,341.31,"January 28, 2024",Delivered
+ORD1302,Sarah Williams,sarah.williams@example.com,Female,canada,01/22/2021,Clothing,8,113.75,"November 27, 2021",cancelled
+ORD1279,Jessica Brown,jessica.brown@example.com, Female ,Canada,"January 08, 2022",Sports,2,$147.24,08/02/2022,DELIVERED
+ORD1144,  Elizabeth Rodriguez  ,elizabeth.rodriguez@example.com,FEMALE,australia,"April 25, 2023",Electronics,9,420.49,17-09-2023,delivered
+ORD1471,Sarah Thomas,sarah.thomas@example.com,M,AUS,2023-01-28,Books,2,85.24,2023-09-10,delivered
+ORD1120,James Garcia,james.garcia@example.com,female,CANADA,2023-03-01,Books,5,487.65,18-11-2023,delivered
+ORD1200,Sarah Garcia,sarah.garcia@example.com,F,Australia,"June 03, 2022",Electronics,10,123.2,"March 06, 2023",Canceled
+ORD1042,Barbara Jones,barbara.jones@example.com,female,germany,10/07/2021,Books,5,62.01,"January 31, 2022",Pending
+ORD1431,Patricia Rodriguez,patricia.rodriguez@example.com, Male,CANADA,02/26/2023,Books,9,152.18,"May 31, 2023",Returned
+ORD1449,Karen Wilson,karen.wilson@example.com,Male,CANADA,10-08-2022,Books,8,$70.28,2022-12-29,Canceled
+ORD1375,  Patricia Martinez  ,patricia.martinez@example.com,Male,germany,2021-11-09,Toys,8 units,$232.88,05/08/2022,returned
+ORD1232,Patricia Gonzalez,patricia.gonzalez@example.com,Male,United Kingdom,11/08/2022,Home & Kitchen,7,106.8,22-10-2023,returned
+ORD1246,Jessica Anderson,,Female,usa,"April 07, 2023",Toys,3,40.66,"April 17, 2023",Delivered
+ORD1464,Elizabeth Wilson,elizabeth.wilson@example.com,Female,CANADA,"December 15, 2022",Books,8,$19.34,2023-07-13,pending
+ORD1374,James Wilson,james.wilson@example.com, Male,US,06/22/2021,Home & Kitchen,3,214.25,19-08-2021,Canceled
+ORD1367,Charles Brown,charles.brown@example.com,male,United Kingdom,31-03-2023,Clothing,10,,03-06-2023,PENDING
+ORD1264,Susan Anderson,susan.anderson@example.com,FEMALE,DE,01-08-2021,Toys,6,$379.28,"December 19, 2021",Canceled
+ORD1030,Charles Johnson,charles.johnson@example.com,Female,US,09/13/2022,Books,8,296.32,2022-10-14,Canceled
+ORD1239,Barbara Johnson,barbara.johnson@example.com,Male,australia,02/04/2023,Sports,7,$435.79,"September 22, 2023",PENDING
+ORD1251,Michael Wilson,michael.wilson@example.com,Female,US,2023-03-16,Electronics,2,298.39,26-02-2024,Cancelled
+ORD1163,  Richard Gonzalez  ,richard.gonzalez@example.com, Female ,Canada,"March 11, 2023",Sports,6,303.68,"August 09, 2023",Canceled
+ORD1150,John Hernandez,john.hernandez@example.com,male,Australia,01/15/2023,Electronics,10,357.0,09-12-2023,DELIVERED
+ORD1425,  David Thomas  ,david.thomas@example.com,F,,"July 09, 2021",Sports,4,87.49,"July 16, 2021",returned
+ORD1421,William Thomas,william.thomas@example.com,Female,UK,"March 18, 2021",Electronics,4,246.38,12-04-2022,PENDING
+ORD1095,Karen Thomas,,,CANADA,"January 18, 2021",Clothing,2,124.28,19-07-2021,Returned
+ORD1366,  Jessica Davis  ,JESSICA.DAVIS@EXAMPLE.COM,F,US,"May 11, 2022",Clothing,2,431.79,2023-05-05,returned
+ORD1222,Karen Johnson,karen.johnson@example.com,MALE,DE,16-09-2022,Toys,10,283.5,05/27/2023,Canceled
+ORD1086,Michael Jones,michael.jones@example.com,Female,germany,"June 07, 2022",Books,3,33.58,2023-06-13,returned
+ORD1188,Karen Hernandez,karen.hernandez@example.com,MALE,canada,"October 14, 2021",Clothing,10,361.8,04/28/2022,Canceled
+ORD1090,Thomas Davis,thomas.davis@example.com,MALE,U.S.A,"November 19, 2022",Home & Kitchen,7,96.02,15-03-2023,cancelled
+ORD1359,Elizabeth Anderson,elizabeth.anderson@example.com,MALE,UK,2023-02-11,Sports,1,451.81,"June 23, 2023",DELIVERED
+ORD1035,Elizabeth Anderson,elizabeth.anderson@example.com, Male,U.K.,"July 20, 2022",Electronics,8,81.22,17-07-2023,returned
+ORD1218,  Sarah Jones  ,sarah.jones@example.com,male,uk,11/28/2021,Electronics,2,184.66,08/17/2022,returned
+ORD1073,Elizabeth Thomas,elizabeth.thomas@example.com,F,USA,"May 11, 2022",Toys,3,368.43,17-07-2022,delivered
+ORD1306,Barbara Hernandez,barbara.hernandez@example.com,MALE,USA,01-05-2022,Clothing,2,210.43,"May 22, 2023",Cancelled
+ORD1221,Susan Garcia,susan.garcia@example.com,MALE,Canada,03-11-2021,Books,2,37.14,24-03-2022,Returned
+ORD1403,  Sarah Jones  ,sarah.jones@example.com,M,germany,08-04-2023,Books,4,476.56,02/28/2024,Delivered
+ORD1466,James Gonzalez,james.gonzalez@example.com, Female ,US,07/03/2022,Toys,7,401.64,10/22/2022,Delivered
+ORD1111,Patricia Davis,patricia.davis@example.com, Female ,UK,04/14/2023,Toys,6,88.35,02-02-2024,Delivered
+ORD1013,John Rodriguez,john.rodriguez@example.com,M,U.K.,12-10-2022,Home & Kitchen,1,$141.96,04-09-2023,Canceled
+ORD1199,John Brown,john.brown@example.com,FEMALE,usa,18-05-2021,Books,8,247.6,"October 31, 2021",PENDING
+ORD1214,Patricia Garcia,patricia.garcia@example.com,M,australia,03-02-2023,Clothing,2 units,493.05,12/14/2023,Cancelled
+ORD1493,Elizabeth Wilson,elizabeth.wilson@example.com,Female,Australia,08-08-2022,Toys,9,$348.66,"November 27, 2022",PENDING
+ORD1235,Sarah Anderson,sarah.anderson@example.com,,AUS,29-05-2022,Toys,10,286.23,2023-01-31,Canceled
+ORD1470,Michael Thomas,michael.thomas@example.com, Female ,DE,02/18/2023,Books,5,$417.99,"December 22, 2023",delivered
+ORD1392,  Susan Thomas  ,susan.thomas@example.com,female,uk,"May 25, 2022",Clothing,7,265.84,2022-09-15,cancelled
+ORD1439,Richard Wilson,richard.wilson@example.com,,usa,2022-09-14,Home & Kitchen,2,494.49,"January 22, 2023",returned
+ORD1097,Charles Thomas,charles.thomas@example.com, Female ,USA,2021-11-19,Toys,3,$202.16,"March 23, 2022",pending
+ORD1354,Charles Lopez,charles.lopez@example.com,MALE,USA,2021-01-02,Sports,7,$367.86,12/29/2021,cancelled
+ORD1298,Thomas Wilson,thomas.wilson@example.com,F,,"January 29, 2023",Clothing,7,353.67,"February 21, 2024",pending
+ORD1064,Thomas Smith,thomas.smith@example.com,F,U.S.A,12/20/2021,Sports,2,$169.6,11/15/2022,returned
+ORD1223,Michael Smith,michael.smith@example.com,male,australia,,Clothing,5 units,153.64,22-02-2022,pending
+ORD1096,Richard Anderson,richard.anderson@example.com,M,United States,"January 24, 2022",Electronics,1 units,423.44,2022-03-14,Cancelled
+ORD1014,Susan Smith,susan.smith@example.com,,CANADA,,Home & Kitchen,1,$128.52,10/12/2022,Cancelled
+ORD1328,William Martinez,,Male,Germany,07/20/2021,Clothing,2,348.92,06-01-2022,pending
+ORD1018,Sarah Jones,sarah.jones@example.com,female,canada,01-01-2021,Books,10,223.68,01/13/2022,delivered
+ORD1409,Susan Johnson,SUSAN.JOHNSON@EXAMPLE.COM, Female ,germany,"August 09, 2022",Books,4,30.53,"July 01, 2023",cancelled
+ORD1247,John Smith,,Female,United Kingdom,2021-04-19,Toys,4,171.98,11-11-2021,DELIVERED
+ORD1437,Jennifer Lopez,jennifer.lopez@example.com,M,germany,06/28/2021,Sports,10,$394.41,"December 01, 2021",DELIVERED
+ORD1479,  Patricia Johnson  ,patricia.johnson@example.com,Female,Canada,2023-01-26,Sports,6,493.2,"February 03, 2023",Returned
+ORD1208,John Jones,john.jones@example.com, Female ,DE,2021-09-06,Books,6,60.7,13-12-2021,PENDING
+ORD1091,Sarah Wilson,sarah.wilson@example.com,MALE,U.K.,06-04-2022,Sports,4,$304.46,05/01/2023,Returned
+ORD1308,Sarah Martinez,sarah.martinez@example.com,Female,DE,"December 19, 2022",Clothing,9,223.86,"November 17, 2023",cancelled
+ORD1484,James Garcia,james.garcia@example.com,male,Canada,2021-07-10,Toys,8,366.82,16-07-2022,pending
+ORD1345,Jennifer Garcia,JENNIFER.GARCIA@EXAMPLE.COM,F,UK,"February 09, 2022",Clothing,2,204.06,10/02/2022,DELIVERED
+ORD1372,David Johnson,david.johnson@example.com,female,AUS,26-03-2022,Toys,5,471.13,2022-08-30,pending
+ORD1389,John Davis,john.davis@example.com,Male,US,"June 08, 2022",Clothing,1,$179.89,"May 25, 2023",delivered
+ORD1407,Jennifer Anderson,jennifer.anderson@example.com, Male,CANADA,24-03-2022,Electronics,2,326.56,2022-12-04,Returned
+ORD1040,David Anderson,,F,United Kingdom,20-12-2021,Books,5,499.69,04-07-2022,PENDING
+ORD1087,Michael Williams,MICHAEL.WILLIAMS@EXAMPLE.COM, Male,,02/23/2022,Sports,7,227.03,04/06/2022,Pending
+ORD1182,Richard Gonzalez,richard.gonzalez@example.com,male,Australia,04-11-2022,Toys,9,$88.89,11/05/2022,delivered
+ORD1385,John Rodriguez,john.rodriguez@example.com,male,,22-12-2021,Sports,9,$449.68,2022-11-08,Pending
+ORD1146,Linda Thomas,linda.thomas@example.com,female,Germany,04/28/2022,Sports,9,341.46,10/27/2022,pending
+ORD1159,Richard Miller,richard.miller@example.com,Female,US,"April 07, 2022",Toys,3 units,369.43,"February 01, 2023",Canceled
+ORD1454,Mary Jones,mary.jones@example.com,Male,uk,2021-05-05,Sports,9,101.54,10/21/2021,Pending
+ORD1413,Charles Johnson,charles.johnson@example.com,FEMALE,,19-06-2022,Clothing,10 units,$258.31,08/17/2022,delivered
+ORD1290,John Smith,john.smith@example.com,female,,17-05-2021,Books,4,$369.37,2021-06-17,Pending
+ORD1435,Elizabeth Gonzalez,elizabeth.gonzalez@example.com, Male,DE,2022-11-05,Sports,1,$330.45,08/12/2023,returned
+ORD1201,Sarah Jones,sarah.jones@example.com,Female,United States,05/13/2021,Clothing,2 units,287.65,07-02-2022,delivered
+ORD1293,Linda Garcia,LINDA.GARCIA@EXAMPLE.COM,FEMALE,Australia,"December 28, 2022",Electronics,3 units,$434.75,15-09-2023,Canceled
+ORD1349,James Williams,james.williams@example.com,Male,UK,06/27/2021,Electronics,7,$362.23,02-11-2021,PENDING
+ORD1072,Sarah Williams,sarah.williams@example.com,male,germany,2022-08-01,Electronics,2,290.5,2023-03-03,returned
+ORD1429,Charles Lopez,charles.lopez@example.com,female,U.K.,11/12/2022,Home & Kitchen,2 units,$25.27,"December 10, 2022",Pending
+ORD1467,Thomas Brown,thomas.brown@example.com,male,USA,,Sports,2,203.37,2023-01-19,DELIVERED
+ORD1410,Thomas Garcia,thomas.garcia@example.com, Male,germany,05-10-2022,Clothing,6 units,221.52,2022-10-20,Returned
+ORD1492,Sarah Gonzalez,sarah.gonzalez@example.com,male,australia,"December 20, 2021",Clothing,9 units,$166.66,2022-12-26,Returned
+ORD1200,Sarah Garcia,sarah.garcia@example.com,F,Australia,"June 03, 2022",Electronics,10,123.2,"March 06, 2023",Canceled
+ORD1107,Michael Rodriguez,michael.rodriguez@example.com, Male,Germany,"July 21, 2021",Sports,8,300.5,16-01-2022,Returned
+ORD1352,Patricia Gonzalez,patricia.gonzalez@example.com,F,CANADA,13-10-2022,Sports,7,$124.96,2023-09-02,cancelled
+ORD1436,Patricia Thomas,patricia.thomas@example.com,Female,,2022-04-14,Electronics,10,,10/13/2022,returned
+ORD1134,Susan Garcia,susan.garcia@example.com,F,usa,08/15/2022,Electronics,1,$476.07,02/24/2023,DELIVERED
+ORD1061,John Rodriguez,john.rodriguez@example.com, Female ,Germany,02/21/2023,Toys,3 units,455.7,"March 07, 2023",delivered
+ORD1156,Richard Jones,richard.jones@example.com,Male,uk,06/10/2023,Books,6,$29.92,01/03/2024,delivered
+ORD1027,David Hernandez,david.hernandez@example.com,,United Kingdom,"February 21, 2022",Clothing,8,$397.5,02/11/2023,PENDING
+ORD1394,Charles Williams,charles.williams@example.com,Male,United Kingdom,"January 13, 2021",Clothing,8,$350.79,"July 05, 2021",delivered
+ORD1101,Robert Garcia,robert.garcia@example.com,Female,uk,"July 20, 2021",Home & Kitchen,1,312.0,"January 08, 2022",cancelled
+ORD1020,Linda Garcia,linda.garcia@example.com,Female,usa,21-04-2022,Books,10,216.24,"July 12, 2022",returned
+ORD1432,Joseph Hernandez,joseph.hernandez@example.com,FEMALE,australia,2022-04-18,Electronics,7,453.89,10/27/2022,Pending
+ORD1435,Elizabeth Gonzalez,elizabeth.gonzalez@example.com, Male,DE,2022-11-05,Sports,1,$330.45,08/12/2023,returned
+ORD1265,Charles Jones,charles.jones@example.com, Female ,CANADA,"July 27, 2022",Electronics,3,417.95,"December 22, 2022",cancelled
+ORD1277,Jennifer Johnson,jennifer.johnson@example.com, Female ,canada,2022-08-28,Home & Kitchen,6,383.77,05-04-2023,pending
+ORD1009,William Brown,william.brown@example.com,female,canada,"March 19, 2021",Toys,2,418.83,07/19/2021,returned
+ORD1364,Charles Jones,charles.jones@example.com,male,United Kingdom,2023-05-27,Clothing,7,421.62,01/25/2024,Delivered
+ORD1310,Barbara Rodriguez,barbara.rodriguez@example.com,Male,,12/14/2021,Toys,10,334.43,17-05-2022,Canceled
+ORD1284,William Hernandez,william.hernandez@example.com,MALE,USA,"October 09, 2021",Toys,1,474.61,09/24/2022,Pending
+ORD1427,William Anderson,william.anderson@example.com,FEMALE,Australia,05-11-2021,Sports,10,262.06,06/04/2022,cancelled
+ORD1143,David Williams,david.williams@example.com, Male,UK,11/25/2022,Books,9,$384.95,10/23/2023,Delivered
+ORD1093,Jessica Hernandez,jessica.hernandez@example.com,Female,,"July 21, 2022",Clothing,6,126.64,10-01-2023,returned
+ORD1253,Charles Johnson,charles.johnson@example.com,FEMALE,Canada,09/11/2022,Sports,10,$278.61,"June 06, 2023",Canceled
+ORD1033,Charles Smith,charles.smith@example.com,,uk,29-03-2022,Toys,7,50.16,2023-03-08,cancelled
+ORD1136,Jessica Jones,,M,germany,01/27/2021,Home & Kitchen,2,393.51,2021-06-12,Returned
+ORD1023,James Williams,james.williams@example.com,female,australia,01-12-2021,Books,5,,2022-09-04,Pending
+ORD1063,Patricia Johnson,patricia.johnson@example.com,Female,AUS,10/10/2022,Home & Kitchen,7,$287.48,06-07-2023,DELIVERED
+ORD1149,Richard Smith,RICHARD.SMITH@EXAMPLE.COM,Female,,01/05/2021,Home & Kitchen,5,$296.39,07-06-2021,returned
+ORD1216,Jessica Hernandez,jessica.hernandez@example.com,FEMALE,DE,08-01-2023,Sports,10,438.51,"August 28, 2023",Delivered
+ORD1155,Barbara Smith,barbara.smith@example.com,MALE,usa,06-03-2021,Electronics,9,284.68,2021-08-27,Returned
+ORD1472,Thomas Thomas,thomas.thomas@example.com,,usa,08-01-2023,Toys,6,148.65,09-01-2024,pending
+ORD1258,Barbara Anderson,barbara.anderson@example.com,MALE,germany,2022-01-12,Books,2,147.74,2022-06-03,cancelled
+ORD1053,Michael Jones,michael.jones@example.com,Male,Australia,06/30/2022,Sports,6,$25.94,"December 08, 2022",returned
+ORD1460,Patricia Miller,patricia.miller@example.com,Male,US,2021-07-19,Electronics,6,287.73,09-03-2022,DELIVERED
+ORD1174,Charles Jones,charles.jones@example.com,Female,Australia,,Clothing,9,,13-12-2022,DELIVERED
+ORD1036,Linda Anderson,linda.anderson@example.com,Male,australia,04-06-2022,Home & Kitchen,5,331.67,07-02-2023,PENDING
+ORD1179,Thomas Wilson,thomas.wilson@example.com,F,Germany,"September 18, 2021",Electronics,5,$132.61,2021-09-22,delivered
+ORD1168,Richard Wilson,richard.wilson@example.com,,Germany,2022-08-23,Electronics,6,394.51,"September 19, 2023",returned
+ORD1227,Mary Williams,mary.williams@example.com, Male,Canada,11/16/2021,Clothing,5,$223.35,2022-04-06,DELIVERED
+ORD1121,Jennifer Lopez,jennifer.lopez@example.com,male,United States,,Home & Kitchen,7,$480.37,"January 14, 2022",cancelled
+ORD1473,  William Jones  ,william.jones@example.com,Female,UK,06-01-2021,Clothing,2,35.25,07/05/2021,PENDING
+ORD1276,Sarah Smith,,Female,canada,2021-02-06,Sports,5,218.19,2022-03-05,returned
+ORD1045,Linda Lopez,linda.lopez@example.com,Female,United Kingdom,"April 24, 2023",Clothing,10 units,170.09,2023-08-08,Canceled
+ORD1301,Michael Martinez,michael.martinez@example.com,,australia,,Books,8,467.96,2023-05-24,delivered
+ORD1325,William Johnson,william.johnson@example.com,Male,germany,"October 03, 2022",Electronics,1,445.59,"November 04, 2022",delivered
+ORD1077,John Hernandez,john.hernandez@example.com, Female ,CANADA,"April 29, 2023",Home & Kitchen,8,338.53,2024-05-05,returned
+ORD1209,Elizabeth Garcia,elizabeth.garcia@example.com, Female ,USA,01/18/2022,Electronics,2,$312.4,2022-06-15,PENDING
+ORD1369,John Wilson,john.wilson@example.com,female,U.S.A,12/13/2022,Electronics,5,100.35,09/01/2023,Returned
+ORD1395,Mary Johnson,mary.johnson@example.com,Male,AUS,11-04-2022,Toys,5,82.62,06/15/2022,Returned
+ORD1213,John Wilson,john.wilson@example.com,FEMALE,UK,12/02/2022,Home & Kitchen,9,454.96,09/18/2023,Pending
+ORD1268,Barbara Jones,BARBARA.JONES@EXAMPLE.COM,FEMALE,United Kingdom,05/31/2022,Toys,10,423.8,"July 29, 2022",Returned
+ORD1312,Jessica Wilson,jessica.wilson@example.com,MALE,United Kingdom,,Clothing,9,302.79,30-01-2023,DELIVERED
+ORD1217,Richard Johnson,richard.johnson@example.com,male,australia,"October 20, 2021",Home & Kitchen,10,452.32,2021-12-06,Canceled
+ORD1487,Richard Miller,richard.miller@example.com,female,usa,02/21/2023,Home & Kitchen,5,215.17,2023-10-30,Canceled
+ORD1010,Richard Johnson,,F,australia,"January 19, 2023",Home & Kitchen,4,273.39,"November 15, 2023",Cancelled
+ORD1453,Barbara Hernandez,barbara.hernandez@example.com,FEMALE,,2022-01-13,Clothing,10,404.98,01-10-2022,cancelled
+ORD1474,Michael Rodriguez,michael.rodriguez@example.com, Female ,CANADA,09/18/2021,Clothing,2,$135.15,"July 16, 2022",PENDING
+ORD1286,Jennifer Anderson,jennifer.anderson@example.com,Female,usa,27-02-2022,Electronics,3,179.17,12-03-2023,Returned
+ORD1296,Elizabeth Jones,elizabeth.jones@example.com,F,Germany,09-04-2021,Books,8,283.71,10/15/2021,returned
+ORD1105,  Charles Jones  ,,M,United States,01/18/2023,Home & Kitchen,8,$177.41,07-09-2023,delivered
+ORD1313,Barbara Martinez,barbara.martinez@example.com,Female,uk,09-11-2021,Sports,8,$38.44,"April 17, 2022",pending
+ORD1486,John Lopez,john.lopez@example.com,male,U.K.,07/09/2021,Books,2,,29-09-2021,delivered
+ORD1278,Linda Davis,linda.davis@example.com,Male,U.S.A,,Sports,7,136.98,"December 16, 2022",returned
+ORD1092,William Martinez,,Male,Australia,12/22/2022,Clothing,9,235.79,"June 25, 2023",Returned
+ORD1183,Barbara Gonzalez,barbara.gonzalez@example.com,Male,germany,27-07-2022,Home & Kitchen,4,465.21,2023-02-21,DELIVERED
+ORD1316,James Hernandez,james.hernandez@example.com,FEMALE,United States,10/20/2021,Electronics,3,88.75,2021-11-03,pending
+ORD1169,James Thomas,james.thomas@example.com, Female ,U.K.,26-03-2023,Electronics,9,25.68,2024-01-01,Pending
+ORD1173,Sarah Rodriguez,sarah.rodriguez@example.com,female,U.K.,2022-05-29,Toys,1,404.24,02/17/2023,Returned
+ORD1233,Charles Smith,charles.smith@example.com,M,,28-07-2022,Home & Kitchen,1,200.16,"February 09, 2023",Canceled
+ORD1347,  William Thomas  ,,FEMALE,United Kingdom,2022-09-24,Sports,7,34.66,"December 11, 2022",Canceled
+ORD1037,Richard Anderson,richard.anderson@example.com, Male,Australia,"April 30, 2022",Sports,3 units,253.63,2022-12-12,Returned
+ORD1157,Charles Anderson,charles.anderson@example.com,Female,United States,2021-02-06,Toys,10,283.35,31-07-2021,Delivered
+ORD1003,Linda Martinez,linda.martinez@example.com,MALE,Canada,03-08-2021,Sports,2,$365.92,06/27/2022,Pending
+ORD1243,Patricia Jones,patricia.jones@example.com,MALE,United States,09-08-2022,Electronics,8,466.78,03-08-2023,Returned
+ORD1309,  Sarah Hernandez  ,sarah.hernandez@example.com, Male,Canada,20-07-2022,Sports,3,$272.27,"December 23, 2022",DELIVERED
+ORD1290,John Smith,john.smith@example.com,female,,17-05-2021,Books,4,$369.37,2021-06-17,Pending
+ORD1446,Sarah Miller,sarah.miller@example.com,female,canada,10/27/2021,Home & Kitchen,6,31.73,"September 11, 2022",Pending
+ORD1049,Richard Wilson,richard.wilson@example.com,F,uk,2023-05-02,Electronics,6,295.3,"July 04, 2023",PENDING
+ORD1415,Jessica Wilson,jessica.wilson@example.com,F,germany,04-08-2022,Sports,2,$479.26,10-06-2023,Returned
+ORD1422,John Brown,john.brown@example.com,FEMALE,DE,02/14/2022,Books,3,$290.73,2022-04-10,Cancelled
+ORD1142,James Garcia,james.garcia@example.com,,U.S.A,08-10-2021,Toys,7,20.13,"January 07, 2022",pending
+ORD1224,Karen Smith,karen.smith@example.com,FEMALE,USA,"October 05, 2022",Toys,6,$464.26,22-07-2023,Delivered
+ORD1353,John Rodriguez,john.rodriguez@example.com,Male,usa,2022-08-24,Clothing,7,347.46,08-03-2023,Returned
+ORD1184,Patricia Rodriguez,patricia.rodriguez@example.com,FEMALE,germany,15-02-2023,Books,8,$243.58,06/08/2023,pending
+ORD1332,David Jones,david.jones@example.com,female,AUS,"June 21, 2021",Sports,9,93.6,"February 24, 2022",returned
+ORD1497,John Gonzalez,john.gonzalez@example.com,MALE,US,06/05/2023,Sports,7,112.79,04-07-2024,DELIVERED
+ORD1476,Patricia Davis,patricia.davis@example.com,FEMALE,germany,09/12/2022,Sports,5,282.44,2023-08-29,returned
+ORD1161,Elizabeth Lopez,elizabeth.lopez@example.com, Male,CANADA,"December 27, 2021",Sports,7,269.28,2022-01-03,delivered
+ORD1337,Elizabeth Smith,elizabeth.smith@example.com,F,AUS,21-02-2023,Electronics,10,81.08,"January 10, 2024",Returned
+ORD1401,Karen Jones,karen.jones@example.com,F,AUS,2023-06-18,Sports,1,$411.51,"November 14, 2023",Canceled
+ORD1220,  Linda Miller  ,linda.miller@example.com,FEMALE,Germany,15-07-2022,Toys,4,$328.37,22-06-2023,Pending
+ORD1100,Sarah Wilson,sarah.wilson@example.com, Male,,"February 28, 2022",Sports,9,$288.12,11-05-2022,pending
+ORD1381,Jennifer Johnson,JENNIFER.JOHNSON@EXAMPLE.COM,female,CANADA,09-07-2021,Home & Kitchen,6 units,11.76,26-12-2021,PENDING
+ORD1236,David Anderson,david.anderson@example.com,male,US,2021-11-16,Toys,1,237.27,16-04-2022,Cancelled
+ORD1459,William Garcia,,MALE,DE,22-12-2021,Home & Kitchen,5,88.81,2022-10-29,Canceled
+ORD1341,Susan Anderson,susan.anderson@example.com,MALE,USA,11-06-2021,Toys,5 units,364.64,2022-01-08,Pending
+ORD1118,Charles Wilson,charles.wilson@example.com,,United States,2021-02-10,Books,9,384.72,01/04/2022,Pending
+ORD1342,  Thomas Hernandez  ,thomas.hernandez@example.com,,United States,"November 23, 2022",Sports,7,$10.31,"May 10, 2023",returned
+ORD1002,  William Rodriguez  ,william.rodriguez@example.com,Female,U.S.A,11-09-2022,Sports,8,192.37,25-07-2023,Canceled
+ORD1114,Joseph Smith,joseph.smith@example.com,,Australia,16-05-2021,Home & Kitchen,2,189.06,05-12-2021,cancelled
+ORD1034,Jessica Martinez,jessica.martinez@example.com,MALE,canada,"March 03, 2023",Electronics,9 units,261.63,2023-10-16,cancelled
+ORD1175,David Rodriguez,david.rodriguez@example.com,FEMALE,US,"August 17, 2021",Home & Kitchen,8,8.27,2021-12-13,Pending
+ORD1254,Joseph Rodriguez,JOSEPH.RODRIGUEZ@EXAMPLE.COM,male,Germany,08/29/2022,Electronics,7 units,,"May 28, 2023",Returned
+ORD1494,Jennifer Rodriguez,,female,Canada,"January 20, 2021",Home & Kitchen,5,$319.25,19-01-2022,Cancelled
+ORD1456,Patricia Williams,patricia.williams@example.com, Male,UK,01/16/2021,Home & Kitchen,9,54.99,01/29/2021,Delivered
+ORD1441,Jessica Lopez,jessica.lopez@example.com,Male,Australia,11-05-2021,Books,4,16.16,"September 17, 2021",Pending
+ORD1185,Thomas Smith,thomas.smith@example.com,Female,Canada,"July 02, 2021",Clothing,10,343.14,10/13/2021,cancelled
+ORD1166,Linda Davis,linda.davis@example.com,FEMALE,usa,,Toys,6,$245.97,2023-06-26,Delivered
+ORD1448,James Gonzalez,,MALE,AUS,2021-11-09,Home & Kitchen,1,171.43,11/30/2022,delivered
+ORD1373,Robert Williams,robert.williams@example.com,male,U.S.A,2022-05-20,Books,9,251.41,2023-02-17,Returned
+ORD1275,John Smith,,MALE,uk,12/01/2021,Toys,2,262.37,"May 01, 2022",returned
+ORD1490,David Brown,david.brown@example.com, Female ,AUS,02-07-2022,Clothing,7,$338.99,30-06-2023,Canceled
+ORD1193,Sarah Rodriguez,sarah.rodriguez@example.com, Male,germany,17-10-2022,Books,9 units,157.39,2022-10-23,cancelled
+ORD1001,Patricia Smith,patricia.smith@example.com,Male,Germany,2021-02-02,Clothing,9,359.43,20-09-2021,Delivered
+ORD1055,  John Davis  ,john.davis@example.com, Male,USA,"October 06, 2022",Toys,10,284.42,24-08-2023,cancelled
+ORD1376,Susan Thomas,susan.thomas@example.com,MALE,Australia,04-11-2022,Books,6,95.18,"June 17, 2023",Cancelled
+ORD1029,Barbara Garcia,barbara.garcia@example.com,,US,"May 10, 2021",Electronics,10,173.65,2022-01-10,delivered
+ORD1305,Karen Brown,karen.brown@example.com,FEMALE,United States,2022-09-17,Electronics,9,436.08,"February 14, 2023",Returned
+ORD1207,Mary Hernandez,mary.hernandez@example.com,male,australia,2022-08-13,Home & Kitchen,7,240.55,2022-12-26,returned
+ORD1384,  Thomas Gonzalez  ,thomas.gonzalez@example.com,female,UK,"January 10, 2021",Sports,9,$151.7,2021-05-05,cancelled
+ORD1406,Michael Wilson,michael.wilson@example.com,female,United Kingdom,2022-01-08,Home & Kitchen,9,252.07,08-07-2022,returned
+ORD1050,Susan Johnson,susan.johnson@example.com,Female,UK,2021-08-18,Toys,6,116.95,2022-09-15,Pending
+ORD1351,Elizabeth Anderson,elizabeth.anderson@example.com,Female,Australia,,Toys,6,470.44,22-03-2022,delivered
+ORD1021,David Thomas,david.thomas@example.com,M,canada,03/24/2021,Books,3 units,206.76,"July 08, 2021",Returned
+ORD1294,James Garcia,james.garcia@example.com,Female,U.S.A,2022-11-28,Toys,2,45.13,19-07-2023,delivered
+ORD1177,Jennifer Gonzalez,jennifer.gonzalez@example.com,M,uk,"April 28, 2022",Books,10,384.91,23-07-2022,Returned
+ORD1336,Linda Davis,linda.davis@example.com, Male,germany,18-04-2022,Home & Kitchen,4,211.76,04-05-2022,Canceled
+ORD1380,John Wilson,JOHN.WILSON@EXAMPLE.COM,MALE,CANADA,08/25/2021,Books,1,$155.62,"February 21, 2022",cancelled
+ORD1172,William Thomas,william.thomas@example.com,FEMALE,United Kingdom,05/30/2023,Clothing,5,365.08,2024-04-18,Returned
+ORD1032,John Rodriguez,john.rodriguez@example.com,M,germany,25-04-2022,Home & Kitchen,9,301.03,01-03-2023,Delivered
+ORD1153,Patricia Rodriguez,patricia.rodriguez@example.com,F,USA,23-05-2023,Sports,6,,08/02/2023,pending
+ORD1414,Robert Jones,robert.jones@example.com,M,canada,"May 23, 2022",Books,4,423.79,15-07-2022,Cancelled
+ORD1317,John Wilson,john.wilson@example.com,Male,DE,"June 05, 2022",Home & Kitchen,1,$37.4,15-06-2022,Delivered
+ORD1259,Michael Smith,michael.smith@example.com,MALE,AUS,10/26/2021,Clothing,9,174.68,"August 26, 2022",returned
+ORD1475,Charles Rodriguez,charles.rodriguez@example.com,female,UK,04/03/2023,Books,1,30.83,"March 09, 2024",pending
+ORD1338,  Robert Gonzalez  ,robert.gonzalez@example.com,F,US,,Clothing,2,$106.92,2023-12-16,PENDING
+ORD1480,Thomas Jones,thomas.jones@example.com,Female,uk,2023-02-04,Toys,6,$418.87,2023-03-22,Delivered
+ORD1399,Thomas Hernandez,thomas.hernandez@example.com,F,Australia,"March 04, 2023",Toys,10,315.76,17-05-2023,delivered
+ORD1424,Karen Rodriguez,karen.rodriguez@example.com,Female,United Kingdom,2021-02-24,Clothing,2,441.89,2021-09-14,Canceled
+ORD1481,Jennifer Hernandez,jennifer.hernandez@example.com,Male,canada,01/12/2023,Sports,4,158.69,06/04/2023,pending
+ORD1423,Jennifer Rodriguez,JENNIFER.RODRIGUEZ@EXAMPLE.COM,F,Germany,08/06/2021,Books,9,$188.04,03/11/2022,Pending
+ORD1120,James Garcia,james.garcia@example.com,female,CANADA,2023-03-01,Books,5,487.65,18-11-2023,delivered
+ORD1257,  Joseph Johnson  ,joseph.johnson@example.com, Male,UK,2021-09-02,Sports,10,377.82,"January 17, 2022",Pending
+ORD1250,Linda Miller,linda.miller@example.com, Male,DE,02/28/2023,Clothing,2,484.44,2024-02-07,DELIVERED

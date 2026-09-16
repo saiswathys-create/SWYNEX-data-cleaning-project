@@ -1,0 +1,62 @@
+Loaded raw dataset: 530 rows, 11 columns
+
+1) DUPLICATES
+Exact duplicate rows found: 30
+Duplicate OrderIDs remaining (same ID, different data): 0
+Rows after removing all duplicates: 500
+
+2) MISSING VALUES (before fix)
+OrderID             0
+CustomerName        0
+Email              33
+Gender             18
+Country            25
+SignupDate         20
+ProductCategory     0
+Quantity            0
+Price              17
+OrderDate           0
+Status              0
+
+MISSING VALUES (after fix)
+OrderID             0
+CustomerName        0
+Email               0
+Gender              0
+Country             0
+SignupDate         20
+ProductCategory     0
+Quantity            0
+Price               0
+OrderDate           0
+Status              0
+
+3) DATA TYPE FIXES
+Quantity: stripped text like 'units', cast to integer.
+Before:
+Quantity
+<class 'str'>    500
+Price: stripped '$' symbols, converted to float, rounded to 2 decimals.
+SignupDate / OrderDate: parsed mixed formats (YYYY-MM-DD, MM/DD/YYYY, DD-MM-YYYY, 'Month DD, YYYY') into a single standard datetime (YYYY-MM-DD).
+
+4) INCONSISTENT VALUES
+CustomerName: trimmed leading/trailing whitespace.
+Email: trimmed whitespace, standardized to lowercase.
+Gender: mapped variants [' Female ', ' Male', 'F', 'FEMALE', 'Female', 'M', 'MALE', 'Male', 'Unknown', 'female', 'male'] -> ['Female', 'Male', 'Unknown']
+Country: mapped variants ['AUS', 'Australia', 'CANADA', 'Canada', 'DE', 'Germany', 'U.K.', 'U.S.A', 'UK', 'US', 'USA', 'United Kingdom', 'United States', 'Unknown', 'australia', 'canada', 'germany', 'uk', 'usa'] -> ['Australia', 'Canada', 'Germany', 'United Kingdom', 'United States', 'Unknown']
+Status: mapped variants ['Canceled', 'Cancelled', 'DELIVERED', 'Delivered', 'PENDING', 'Pending', 'Returned', 'cancelled', 'delivered', 'pending', 'returned'] -> ['Cancelled', 'Delivered', 'Pending', 'Returned']
+
+FINAL cleaned dataset: 500 rows, 11 columns
+
+Final dtypes:
+OrderID                       str
+CustomerName                  str
+Email                         str
+Gender                        str
+Country                       str
+SignupDate         datetime64[us]
+ProductCategory               str
+Quantity                    Int64
+Price                     float64
+OrderDate          datetime64[us]
+Status                        str

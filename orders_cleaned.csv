@@ -1,0 +1,501 @@
+OrderID,CustomerName,Email,Gender,Country,SignupDate,ProductCategory,Quantity,Price,OrderDate,Status
+ORD1062,Linda Gonzalez,linda.gonzalez@example.com,Male,Canada,2021-10-21,Clothing,8,44.22,2022-07-29,Delivered
+ORD1242,David Martinez,david.martinez@example.com,Female,Canada,2021-03-17,Books,7,478.02,2021-11-24,Returned
+ORD1288,William Martinez,william.martinez@example.com,Male,Unknown,2021-01-24,Books,4,29.64,2021-04-11,Pending
+ORD1311,Linda Brown,linda.brown@example.com,Female,Australia,2021-03-05,Books,4,265.5,2021-09-24,Returned
+ORD1170,Barbara Miller,barbara.miller@example.com,Male,Germany,2021-07-05,Toys,8,337.48,2022-04-29,Pending
+ORD1480,Thomas Jones,thomas.jones@example.com,Female,United Kingdom,2023-02-04,Toys,6,418.87,2023-03-22,Delivered
+ORD1011,Robert Garcia,robert.garcia@example.com,Male,Germany,2021-02-10,Toys,10,106.11,2021-09-01,Pending
+ORD1303,Richard Wilson,richard.wilson@example.com,Female,United Kingdom,2023-02-07,Clothing,3,54.95,2023-07-13,Cancelled
+ORD1195,Linda Rodriguez,linda.rodriguez@example.com,Female,United States,2021-04-24,Home & Kitchen,10,228.02,2021-06-16,Pending
+ORD1304,James Lopez,james.lopez@example.com,Male,Germany,2021-12-12,Clothing,2,496.86,2023-11-01,Cancelled
+ORD1181,Patricia Davis,patricia.davis@example.com,Male,Australia,2022-09-21,Sports,1,238.48,2023-02-03,Pending
+ORD1017,Charles Miller,charles.miller@example.com,Male,Germany,2023-01-30,Electronics,6,66.69,2024-01-07,Pending
+ORD1451,Robert Rodriguez,robert.rodriguez@example.com,Male,Canada,2021-05-11,Clothing,10,329.03,2021-12-23,Delivered
+ORD1088,Sarah Gonzalez,sarah.gonzalez@example.com,Male,Canada,2022-07-12,Clothing,4,98.3,2022-07-29,Delivered
+ORD1015,Jennifer Wilson,jennifer.wilson@example.com,Female,United Kingdom,2022-12-20,Electronics,8,232.85,2023-04-16,Delivered
+ORD1241,James Williams,james.williams@example.com,Male,Canada,2021-01-25,Toys,4,355.5,2021-04-02,Cancelled
+ORD1028,Jessica Lopez,jessica.lopez@example.com,Female,Canada,2021-05-04,Sports,9,99.81,2022-02-03,Delivered
+ORD1113,William Smith,william.smith@example.com,Male,Canada,2022-02-12,Clothing,8,172.19,2022-10-19,Delivered
+ORD1331,Barbara Lopez,barbara.lopez@example.com,Female,United Kingdom,2022-01-23,Books,4,295.73,2022-10-04,Cancelled
+ORD1038,Susan Jones,susan.jones@example.com,Female,Australia,2021-12-03,Sports,8,38.87,2022-03-30,Returned
+ORD1082,Robert Davis,robert.davis@example.com,Male,United Kingdom,2022-02-11,Sports,5,286.14,2022-07-07,Returned
+ORD1186,Michael Davis,michael.davis@example.com,Male,Unknown,2023-05-28,Home & Kitchen,10,441.09,2023-08-30,Returned
+ORD1133,Karen Davis,karen.davis@example.com,Female,United States,2021-11-24,Electronics,6,128.52,2022-01-19,Delivered
+ORD1231,Jessica Gonzalez,jessica.gonzalez@example.com,Female,Canada,2021-06-27,Sports,10,300.06,2022-02-10,Pending
+ORD1458,John Garcia,john.garcia@example.com,Male,Germany,2022-10-27,Books,3,472.66,2023-04-20,Returned
+ORD1402,Robert Davis,robert.davis@example.com,Male,Germany,2021-07-04,Books,7,162.06,2022-06-29,Delivered
+ORD1104,Sarah Williams,sarah.williams@example.com,Female,United States,2022-11-25,Home & Kitchen,7,114.89,2023-11-13,Returned
+ORD1058,Richard Martinez,richard.martinez@example.com,Male,United Kingdom,2022-11-03,Sports,2,396.87,2023-11-17,Returned
+ORD1319,Michael Martinez,michael.martinez@example.com,Male,United States,2021-10-14,Toys,6,319.41,2022-03-03,Pending
+ORD1252,Patricia Davis,patricia.davis@example.com,Female,Germany,2022-03-23,Toys,8,231.58,2022-08-09,Pending
+ORD1130,Richard Lopez,richard.lopez@example.com,Male,Canada,2022-08-29,Home & Kitchen,10,98.18,2023-09-05,Cancelled
+ORD1176,Jennifer Lopez,jennifer.lopez@example.com,Male,United States,2022-05-06,Sports,7,288.88,2022-05-27,Delivered
+ORD1450,Charles Gonzalez,charles.gonzalez@example.com,Female,Germany,2022-06-08,Clothing,8,235.89,2023-05-18,Returned
+ORD1255,Linda Williams,unknown@unknown.com,Female,Canada,2021-04-03,Home & Kitchen,3,374.91,2022-05-04,Returned
+ORD1428,Linda Wilson,linda.wilson@example.com,Male,Canada,2022-04-06,Sports,6,211.56,2022-04-28,Delivered
+ORD1198,Michael Brown,michael.brown@example.com,Male,Germany,2021-09-06,Toys,8,386.54,2022-08-24,Delivered
+ORD1122,William Rodriguez,william.rodriguez@example.com,Male,United States,2022-06-13,Electronics,8,158.8,2022-12-19,Pending
+ORD1112,Susan Johnson,susan.johnson@example.com,Male,Canada,2022-11-24,Toys,5,42.38,2023-06-19,Pending
+ORD1363,Jennifer Thomas,jennifer.thomas@example.com,Male,Canada,2021-12-23,Toys,5,352.05,2022-06-07,Pending
+ORD1400,William Garcia,william.garcia@example.com,Female,United States,2023-03-02,Books,5,462.46,2023-11-07,Pending
+ORD1103,Elizabeth Williams,elizabeth.williams@example.com,Female,Canada,2021-06-07,Electronics,8,203.4,2022-05-28,Delivered
+ORD1212,Jessica Gonzalez,unknown@unknown.com,Female,United Kingdom,2022-03-10,Electronics,9,174.18,2023-10-12,Cancelled
+ORD1455,Patricia Davis,patricia.davis@example.com,Female,Germany,2022-01-06,Books,7,493.44,2022-08-03,Pending
+ORD1127,Barbara Williams,barbara.williams@example.com,Male,United Kingdom,2021-05-04,Books,1,216.24,2022-03-21,Cancelled
+ORD1323,James Rodriguez,james.rodriguez@example.com,Male,United States,2022-02-21,Toys,8,283.96,2022-09-25,Pending
+ORD1396,Jennifer Williams,jennifer.williams@example.com,Female,United Kingdom,2022-10-25,Electronics,2,424.07,2023-07-30,Delivered
+ORD1469,Linda Wilson,linda.wilson@example.com,Unknown,Australia,2022-01-17,Toys,1,188.06,2022-07-07,Delivered
+ORD1131,Mary Davis,unknown@unknown.com,Female,Germany,2021-12-15,Home & Kitchen,1,459.03,2022-06-20,Pending
+ORD1395,Mary Johnson,mary.johnson@example.com,Male,Australia,2022-11-04,Toys,5,82.62,2022-06-15,Returned
+ORD1442,Jennifer Martinez,jennifer.martinez@example.com,Female,Germany,2022-08-20,Home & Kitchen,1,104.25,2022-03-12,Delivered
+ORD1145,David Hernandez,david.hernandez@example.com,Female,United Kingdom,2023-04-02,Sports,3,498.75,2023-10-18,Cancelled
+ORD1160,John Brown,john.brown@example.com,Female,Australia,2023-02-20,Home & Kitchen,5,209.31,2023-07-24,Cancelled
+ORD1486,John Lopez,john.lopez@example.com,Male,United Kingdom,2021-07-09,Books,2,216.24,2021-09-29,Delivered
+ORD1147,William Lopez,william.lopez@example.com,Male,Germany,2021-03-14,Toys,2,152.69,2021-05-24,Pending
+ORD1202,Robert Smith,robert.smith@example.com,Female,United States,2022-02-03,Electronics,10,39.84,2022-11-23,Delivered
+ORD1263,Sarah Anderson,sarah.anderson@example.com,Female,Germany,2021-02-27,Sports,7,145.9,2021-12-12,Cancelled
+ORD1500,Linda Garcia,linda.garcia@example.com,Male,United States,2022-04-18,Toys,8,486.54,2023-02-22,Cancelled
+ORD1324,William Williams,william.williams@example.com,Male,United Kingdom,2021-11-15,Electronics,1,298.3,2022-03-24,Delivered
+ORD1411,John Anderson,john.anderson@example.com,Male,United Kingdom,2023-05-11,Books,5,467.81,2024-03-03,Delivered
+ORD1488,Linda Lopez,linda.lopez@example.com,Male,Australia,2021-05-22,Clothing,5,328.75,2021-12-07,Delivered
+ORD1262,Charles Jones,charles.jones@example.com,Female,Australia,2022-07-19,Books,10,50.78,2023-05-14,Pending
+ORD1489,Susan Garcia,susan.garcia@example.com,Male,Canada,2022-11-03,Electronics,3,195.08,2023-10-13,Returned
+ORD1249,Robert Smith,robert.smith@example.com,Female,Australia,2021-05-27,Books,4,23.62,2021-12-07,Pending
+ORD1117,Sarah Martinez,sarah.martinez@example.com,Female,Germany,2021-10-30,Clothing,8,320.85,2021-06-11,Pending
+ORD1464,Elizabeth Wilson,elizabeth.wilson@example.com,Female,Canada,2022-12-15,Books,8,19.34,2023-07-13,Pending
+ORD1074,Patricia Rodriguez,patricia.rodriguez@example.com,Male,Germany,2023-06-06,Toys,6,498.0,2024-02-16,Delivered
+ORD1370,Susan Gonzalez,susan.gonzalez@example.com,Male,United States,2021-12-04,Home & Kitchen,5,140.46,2022-03-28,Delivered
+ORD1244,Jessica Thomas,jessica.thomas@example.com,Male,Australia,2022-05-09,Home & Kitchen,6,317.97,2023-07-02,Delivered
+ORD1299,Jennifer Miller,jennifer.miller@example.com,Female,United States,2021-01-14,Books,7,302.93,2021-11-26,Returned
+ORD1167,Sarah Smith,sarah.smith@example.com,Male,United Kingdom,,Sports,6,93.11,2021-10-07,Returned
+ORD1355,Patricia Anderson,patricia.anderson@example.com,Male,United Kingdom,2023-06-12,Toys,2,150.1,2023-12-05,Cancelled
+ORD1357,Richard Johnson,richard.johnson@example.com,Male,Australia,2021-05-23,Toys,5,128.03,2022-01-22,Cancelled
+ORD1154,Karen Rodriguez,karen.rodriguez@example.com,Female,Australia,2022-01-30,Sports,3,34.03,2022-09-01,Returned
+ORD1245,Elizabeth Miller,unknown@unknown.com,Female,Australia,2022-01-03,Sports,8,100.58,2022-09-11,Delivered
+ORD1438,Jessica Garcia,jessica.garcia@example.com,Female,Germany,2022-09-25,Electronics,3,252.22,2023-01-22,Delivered
+ORD1335,Michael Hernandez,michael.hernandez@example.com,Female,Germany,,Home & Kitchen,5,204.89,2024-01-12,Returned
+ORD1158,William Thomas,william.thomas@example.com,Female,United Kingdom,2023-04-30,Home & Kitchen,2,74.52,2023-06-24,Cancelled
+ORD1250,Linda Miller,linda.miller@example.com,Male,Germany,2023-02-28,Clothing,2,484.44,2024-02-07,Delivered
+ORD1269,John Smith,john.smith@example.com,Female,Germany,2021-12-17,Electronics,2,75.47,2022-02-22,Returned
+ORD1405,James Miller,james.miller@example.com,Male,Canada,2022-04-15,Home & Kitchen,2,135.09,2022-06-19,Delivered
+ORD1282,Karen Davis,karen.davis@example.com,Male,Canada,2022-03-23,Electronics,4,132.91,2022-06-22,Returned
+ORD1350,Michael Rodriguez,michael.rodriguez@example.com,Female,Australia,2022-09-17,Books,1,46.2,2023-06-20,Cancelled
+ORD1108,Elizabeth Williams,elizabeth.williams@example.com,Male,Canada,2022-02-02,Toys,7,271.0,2022-05-02,Returned
+ORD1081,Linda Davis,linda.davis@example.com,Male,Australia,,Toys,3,439.81,2021-08-09,Pending
+ORD1498,William Gonzalez,william.gonzalez@example.com,Female,Australia,2021-07-01,Toys,6,343.26,2022-02-01,Returned
+ORD1041,Richard Rodriguez,richard.rodriguez@example.com,Male,Canada,2021-12-27,Toys,5,331.29,2022-11-14,Pending
+ORD1052,Karen Johnson,karen.johnson@example.com,Female,Australia,2022-06-09,Electronics,5,265.83,2023-04-12,Delivered
+ORD1162,Mary Miller,mary.miller@example.com,Female,United States,2022-07-09,Books,2,283.13,2023-01-25,Pending
+ORD1306,Barbara Hernandez,barbara.hernandez@example.com,Male,United States,2022-01-05,Clothing,2,210.43,2023-05-22,Cancelled
+ORD1044,Mary Martinez,mary.martinez@example.com,Male,Australia,2023-01-31,Sports,3,417.68,2023-06-24,Pending
+ORD1059,Elizabeth Garcia,elizabeth.garcia@example.com,Female,United Kingdom,2023-05-15,Toys,9,384.32,2023-08-07,Cancelled
+ORD1393,James Lopez,james.lopez@example.com,Male,Canada,2021-05-28,Clothing,1,349.41,2022-05-20,Pending
+ORD1125,David Davis,david.davis@example.com,Male,Australia,2021-04-05,Clothing,8,64.36,2022-04-30,Cancelled
+ORD1416,William Wilson,william.wilson@example.com,Male,Canada,2021-05-06,Electronics,6,164.17,2021-09-29,Cancelled
+ORD1420,Mary Brown,mary.brown@example.com,Female,Australia,2021-05-22,Home & Kitchen,3,483.09,2021-07-24,Returned
+ORD1067,Susan Garcia,susan.garcia@example.com,Male,Australia,2023-03-22,Sports,7,341.31,2024-01-28,Delivered
+ORD1365,William Wilson,william.wilson@example.com,Unknown,United Kingdom,2022-12-06,Books,2,326.9,2023-06-13,Delivered
+ORD1382,Thomas Lopez,thomas.lopez@example.com,Female,United Kingdom,2022-11-02,Books,2,174.73,2023-02-14,Delivered
+ORD1046,Linda Hernandez,linda.hernandez@example.com,Male,United Kingdom,2023-03-29,Electronics,3,122.78,2023-04-25,Returned
+ORD1102,Michael Thomas,michael.thomas@example.com,Female,Australia,2021-11-30,Books,6,298.15,2022-09-08,Returned
+ORD1379,Thomas Garcia,thomas.garcia@example.com,Female,Australia,2023-03-13,Toys,10,297.64,2023-05-20,Delivered
+ORD1048,Robert Jones,robert.jones@example.com,Female,Germany,2022-09-12,Sports,2,385.64,2023-05-02,Returned
+ORD1360,Sarah Thomas,sarah.thomas@example.com,Male,Germany,2022-01-22,Toys,7,62.27,2023-02-06,Delivered
+ORD1016,William Rodriguez,william.rodriguez@example.com,Female,Australia,2022-04-07,Electronics,5,136.41,2023-07-13,Returned
+ORD1240,Mary Brown,mary.brown@example.com,Female,Canada,2023-04-02,Toys,7,124.69,2023-12-25,Cancelled
+ORD1138,Robert Gonzalez,robert.gonzalez@example.com,Male,Australia,2021-06-21,Clothing,1,220.52,2022-04-22,Pending
+ORD1228,Patricia Miller,patricia.miller@example.com,Female,Canada,2021-03-14,Home & Kitchen,9,238.01,2021-04-11,Returned
+ORD1412,Patricia Brown,patricia.brown@example.com,Male,Canada,2022-05-18,Books,2,445.41,2022-08-09,Pending
+ORD1068,Barbara Lopez,barbara.lopez@example.com,Male,Canada,2022-08-11,Books,6,61.16,2023-02-26,Pending
+ORD1426,David Williams,david.williams@example.com,Male,Unknown,2023-06-14,Electronics,1,418.5,2023-08-29,Delivered
+ORD1391,Jessica Lopez,jessica.lopez@example.com,Male,United Kingdom,2022-02-04,Books,2,364.72,2022-04-11,Returned
+ORD1390,Patricia Davis,patricia.davis@example.com,Female,United States,2021-03-28,Clothing,7,341.32,2021-08-30,Pending
+ORD1388,James Brown,unknown@unknown.com,Male,United States,2022-10-05,Electronics,2,427.1,2023-10-29,Cancelled
+ORD1272,Susan Miller,susan.miller@example.com,Female,Germany,2022-05-01,Electronics,2,145.39,2022-08-21,Returned
+ORD1366,Jessica Davis,jessica.davis@example.com,Female,United States,2022-05-11,Clothing,2,431.79,2023-05-05,Returned
+ORD1327,Patricia Brown,patricia.brown@example.com,Male,Germany,2022-05-08,Clothing,1,220.74,2022-10-15,Cancelled
+ORD1203,Richard Miller,richard.miller@example.com,Male,Australia,2022-10-16,Sports,7,94.3,2023-01-05,Pending
+ORD1128,Jennifer Rodriguez,jennifer.rodriguez@example.com,Male,United Kingdom,2022-07-18,Home & Kitchen,7,442.9,2023-04-23,Returned
+ORD1496,Barbara Williams,barbara.williams@example.com,Female,Canada,2021-01-31,Clothing,10,497.93,2021-11-12,Cancelled
+ORD1295,Karen Anderson,karen.anderson@example.com,Male,Canada,2023-02-01,Toys,7,123.84,2023-02-12,Cancelled
+ORD1483,Elizabeth Miller,elizabeth.miller@example.com,Female,United Kingdom,2021-09-25,Toys,3,164.88,2021-10-13,Delivered
+ORD1371,Elizabeth Thomas,elizabeth.thomas@example.com,Female,United States,2023-02-09,Sports,9,204.31,2024-01-27,Cancelled
+ORD1156,Richard Jones,richard.jones@example.com,Male,United Kingdom,2023-06-10,Books,6,29.92,2024-01-03,Delivered
+ORD1137,Richard Lopez,unknown@unknown.com,Female,Canada,2023-02-10,Home & Kitchen,9,117.62,2023-11-05,Returned
+ORD1267,Mary Rodriguez,mary.rodriguez@example.com,Female,Germany,2022-06-11,Clothing,2,164.69,2022-11-13,Pending
+ORD1340,John Anderson,john.anderson@example.com,Male,Germany,2022-08-13,Home & Kitchen,8,397.21,2022-11-11,Cancelled
+ORD1135,Robert Hernandez,robert.hernandez@example.com,Female,United Kingdom,2021-04-14,Clothing,7,366.34,2021-08-14,Delivered
+ORD1210,Elizabeth Anderson,elizabeth.anderson@example.com,Male,Canada,2023-01-18,Sports,1,265.77,2023-01-05,Delivered
+ORD1211,James Williams,james.williams@example.com,Unknown,Australia,2022-06-05,Books,10,252.82,2022-06-17,Cancelled
+ORD1499,Karen Davis,karen.davis@example.com,Male,Australia,2021-09-13,Books,2,302.66,2022-06-02,Cancelled
+ORD1238,Charles Jones,charles.jones@example.com,Male,United Kingdom,2022-06-25,Electronics,3,419.62,2023-01-08,Returned
+ORD1440,Jennifer Wilson,jennifer.wilson@example.com,Male,Unknown,2021-05-24,Books,10,96.73,2022-04-18,Cancelled
+ORD1084,Linda Smith,linda.smith@example.com,Female,Germany,2022-01-04,Electronics,8,253.75,2022-06-13,Pending
+ORD1119,Thomas Miller,thomas.miller@example.com,Female,United States,2023-01-18,Electronics,7,32.24,2023-04-18,Delivered
+ORD1348,Karen Anderson,karen.anderson@example.com,Female,United States,2022-01-03,Clothing,6,31.77,2023-02-16,Returned
+ORD1171,Linda Brown,linda.brown@example.com,Male,Canada,2022-12-12,Home & Kitchen,6,160.04,2023-11-06,Pending
+ORD1418,Charles Smith,charles.smith@example.com,Female,Germany,2021-01-17,Books,5,203.17,2021-11-27,Returned
+ORD1386,David Garcia,unknown@unknown.com,Male,Canada,2022-07-19,Clothing,6,404.83,2022-11-15,Pending
+ORD1377,Susan Smith,susan.smith@example.com,Male,United States,2023-01-02,Clothing,4,491.55,2023-10-13,Pending
+ORD1204,William Lopez,william.lopez@example.com,Female,Germany,2022-07-18,Books,8,216.24,2022-09-26,Delivered
+ORD1060,Susan Lopez,susan.lopez@example.com,Female,Australia,2021-11-13,Clothing,6,223.1,2022-07-29,Cancelled
+ORD1234,John Miller,john.miller@example.com,Female,Unknown,2022-10-26,Books,7,72.92,2023-10-18,Cancelled
+ORD1106,Patricia Smith,patricia.smith@example.com,Male,Germany,2022-03-13,Books,3,200.81,2022-10-30,Returned
+ORD1280,Patricia Hernandez,patricia.hernandez@example.com,Female,United States,2021-11-04,Home & Kitchen,4,260.11,2021-11-14,Returned
+ORD1056,Joseph Martinez,joseph.martinez@example.com,Female,Unknown,2022-01-13,Electronics,10,292.26,2022-02-04,Cancelled
+ORD1091,Sarah Wilson,sarah.wilson@example.com,Male,United Kingdom,2022-06-04,Sports,4,304.46,2023-05-01,Returned
+ORD1169,James Thomas,james.thomas@example.com,Female,United Kingdom,2023-03-26,Electronics,9,25.68,2024-01-01,Pending
+ORD1057,Thomas Jones,thomas.jones@example.com,Female,United Kingdom,2022-03-25,Toys,3,196.77,2022-04-21,Delivered
+ORD1408,Susan Miller,susan.miller@example.com,Female,Australia,2023-03-24,Sports,7,115.85,2023-07-08,Returned
+ORD1190,Barbara Miller,barbara.miller@example.com,Male,Germany,2022-04-03,Home & Kitchen,8,87.95,2023-02-21,Delivered
+ORD1089,Patricia Johnson,patricia.johnson@example.com,Male,Australia,2021-08-11,Home & Kitchen,4,162.86,2022-01-23,Pending
+ORD1300,John Smith,john.smith@example.com,Male,United Kingdom,2022-10-04,Books,3,87.22,2023-06-10,Delivered
+ORD1025,Richard Gonzalez,richard.gonzalez@example.com,Male,Canada,2021-05-04,Books,6,11.26,2021-12-12,Returned
+ORD1115,Patricia Smith,patricia.smith@example.com,Male,United States,2023-04-17,Books,3,49.22,2023-10-23,Cancelled
+ORD1140,Susan Rodriguez,susan.rodriguez@example.com,Female,Australia,,Home & Kitchen,4,137.95,2023-04-05,Pending
+ORD1463,Sarah Miller,unknown@unknown.com,Female,Germany,2022-05-11,Clothing,5,316.86,2022-10-10,Cancelled
+ORD1032,John Rodriguez,john.rodriguez@example.com,Male,Germany,2022-04-25,Home & Kitchen,9,301.03,2023-01-03,Delivered
+ORD1383,Sarah Rodriguez,sarah.rodriguez@example.com,Female,United States,2022-03-06,Home & Kitchen,3,35.09,2022-09-26,Delivered
+ORD1445,Linda Wilson,linda.wilson@example.com,Male,United Kingdom,2021-05-10,Electronics,6,125.9,2022-01-11,Delivered
+ORD1343,Sarah Davis,sarah.davis@example.com,Female,United Kingdom,2021-01-07,Sports,7,10.55,2021-10-01,Delivered
+ORD1205,Michael Hernandez,michael.hernandez@example.com,Female,Germany,2021-02-08,Clothing,5,120.33,2021-09-01,Delivered
+ORD1287,Jennifer Anderson,jennifer.anderson@example.com,Female,Canada,2021-06-11,Sports,3,397.36,2022-06-23,Pending
+ORD1491,Joseph Wilson,joseph.wilson@example.com,Male,United States,2021-09-16,Home & Kitchen,1,181.66,2022-08-08,Delivered
+ORD1248,John Hernandez,john.hernandez@example.com,Male,United States,2023-02-15,Home & Kitchen,9,293.08,2024-01-05,Cancelled
+ORD1165,Linda Garcia,linda.garcia@example.com,Male,Australia,2021-07-08,Home & Kitchen,4,240.05,2022-07-06,Delivered
+ORD1291,Barbara Johnson,barbara.johnson@example.com,Female,Canada,2022-07-27,Home & Kitchen,3,439.56,2023-04-25,Cancelled
+ORD1257,Joseph Johnson,joseph.johnson@example.com,Male,United Kingdom,2021-09-02,Sports,10,377.82,2022-01-17,Pending
+ORD1129,Jessica Lopez,jessica.lopez@example.com,Female,Canada,2023-11-04,Books,9,120.22,2023-08-13,Delivered
+ORD1098,John Williams,john.williams@example.com,Male,United States,2022-09-21,Home & Kitchen,1,228.02,2023-04-02,Cancelled
+ORD1124,Mary Jones,mary.jones@example.com,Male,Canada,2021-03-28,Sports,7,220.32,2021-09-08,Returned
+ORD1219,Jennifer Hernandez,jennifer.hernandez@example.com,Male,United Kingdom,2021-11-13,Clothing,2,262.08,2022-07-26,Delivered
+ORD1482,Michael Rodriguez,michael.rodriguez@example.com,Female,Canada,2022-08-16,Sports,9,416.71,2023-03-02,Cancelled
+ORD1461,Patricia Anderson,patricia.anderson@example.com,Male,United States,2023-02-02,Home & Kitchen,3,317.16,2024-01-30,Delivered
+ORD1289,Patricia Smith,patricia.smith@example.com,Female,United Kingdom,2023-04-13,Books,7,302.04,2024-03-25,Returned
+ORD1099,Richard Williams,richard.williams@example.com,Male,United Kingdom,2022-10-12,Home & Kitchen,6,157.59,2022-12-19,Cancelled
+ORD1314,Karen Jones,karen.jones@example.com,Female,United Kingdom,2022-10-02,Books,6,445.57,2022-12-26,Pending
+ORD1187,John Johnson,john.johnson@example.com,Male,United Kingdom,2022-12-17,Electronics,1,54.87,2023-03-23,Cancelled
+ORD1330,Charles Lopez,unknown@unknown.com,Male,Canada,2023-05-18,Electronics,3,15.39,2023-07-14,Cancelled
+ORD1341,Susan Anderson,susan.anderson@example.com,Male,United States,2021-11-06,Toys,5,364.64,2022-01-08,Pending
+ORD1344,Joseph Johnson,joseph.johnson@example.com,Male,Australia,2021-02-19,Clothing,6,262.08,2021-05-29,Cancelled
+ORD1178,Richard Jones,richard.jones@example.com,Female,United Kingdom,2022-09-07,Toys,9,331.4,2022-09-08,Returned
+ORD1261,William Jones,william.jones@example.com,Male,Canada,2022-04-05,Electronics,1,76.97,2022-08-04,Pending
+ORD1281,Joseph Rodriguez,joseph.rodriguez@example.com,Female,United States,2022-04-19,Sports,5,430.79,2022-11-17,Pending
+ORD1397,Elizabeth Miller,elizabeth.miller@example.com,Male,Germany,,Home & Kitchen,2,181.54,2023-06-29,Returned
+ORD1334,Joseph Wilson,joseph.wilson@example.com,Female,United Kingdom,2022-10-23,Electronics,5,323.61,2022-12-13,Delivered
+ORD1322,Karen Miller,karen.miller@example.com,Female,Germany,2022-07-20,Toys,10,68.48,2023-05-08,Pending
+ORD1274,Richard Brown,richard.brown@example.com,Female,Germany,2023-03-20,Sports,10,258.15,2023-05-22,Returned
+ORD1271,Thomas Davis,thomas.davis@example.com,Male,United Kingdom,2023-02-12,Electronics,4,239.98,2024-01-23,Cancelled
+ORD1273,Susan Miller,susan.miller@example.com,Female,Australia,2022-03-25,Books,7,372.01,2022-09-28,Pending
+ORD1109,William Anderson,william.anderson@example.com,Male,Australia,2022-05-22,Books,8,20.28,2022-10-10,Pending
+ORD1305,Karen Brown,karen.brown@example.com,Female,United States,2022-09-17,Electronics,9,436.08,2023-02-14,Returned
+ORD1191,Linda Hernandez,linda.hernandez@example.com,Female,Canada,2022-01-07,Clothing,1,129.57,2022-04-25,Returned
+ORD1004,Mary Hernandez,mary.hernandez@example.com,Female,Australia,2021-09-29,Toys,9,449.42,2021-12-09,Delivered
+ORD1358,William Smith,william.smith@example.com,Female,Australia,2023-03-25,Books,2,101.56,2024-01-12,Cancelled
+ORD1197,Linda Gonzalez,linda.gonzalez@example.com,Male,United States,2021-08-02,Home & Kitchen,6,373.64,2022-06-04,Cancelled
+ORD1333,Charles Johnson,charles.johnson@example.com,Female,Canada,2022-08-09,Home & Kitchen,5,46.59,2023-06-04,Returned
+ORD1083,Joseph Rodriguez,joseph.rodriguez@example.com,Male,United Kingdom,2023-03-21,Clothing,3,205.72,2023-10-13,Cancelled
+ORD1285,Barbara Martinez,barbara.martinez@example.com,Male,United Kingdom,2021-11-13,Sports,2,223.99,2022-03-24,Delivered
+ORD1054,Richard Smith,richard.smith@example.com,Female,United States,2022-02-15,Home & Kitchen,6,42.81,2022-05-26,Pending
+ORD1444,Michael Gonzalez,michael.gonzalez@example.com,Female,Australia,2022-12-20,Electronics,8,452.26,2023-01-19,Cancelled
+ORD1085,Linda Jones,linda.jones@example.com,Female,Australia,2023-04-26,Sports,10,226.14,2024-02-09,Delivered
+ORD1485,Elizabeth Johnson,elizabeth.johnson@example.com,Male,Canada,2021-01-30,Home & Kitchen,10,103.24,2021-07-04,Delivered
+ORD1180,William Wilson,william.wilson@example.com,Female,Australia,2021-10-10,Books,9,188.26,2022-03-17,Returned
+ORD1139,Robert Williams,robert.williams@example.com,Female,United States,2023-03-12,Clothing,3,482.59,2024-04-15,Pending
+ORD1495,Karen Anderson,karen.anderson@example.com,Female,Germany,2021-11-24,Clothing,8,268.46,2022-06-19,Delivered
+ORD1478,Jessica Gonzalez,jessica.gonzalez@example.com,Female,Germany,2022-04-28,Books,9,19.27,2023-05-10,Cancelled
+ORD1320,Karen Hernandez,karen.hernandez@example.com,Male,United States,2022-12-15,Toys,2,43.37,2023-11-24,Delivered
+ORD1075,Linda Miller,unknown@unknown.com,Female,Australia,2023-05-18,Home & Kitchen,6,203.29,2024-02-26,Delivered
+ORD1008,Linda Williams,linda.williams@example.com,Male,Australia,2023-01-11,Books,7,218.37,2024-01-20,Delivered
+ORD1457,Thomas Gonzalez,thomas.gonzalez@example.com,Female,Canada,2023-04-25,Toys,2,370.68,2023-11-21,Returned
+ORD1315,Sarah Williams,sarah.williams@example.com,Male,Australia,2021-05-04,Home & Kitchen,4,444.39,2022-11-03,Returned
+ORD1356,Patricia Smith,patricia.smith@example.com,Male,United States,2023-03-22,Toys,5,171.83,2023-09-14,Cancelled
+ORD1024,Mary Smith,mary.smith@example.com,Male,United Kingdom,2022-08-01,Home & Kitchen,6,375.22,2023-01-08,Delivered
+ORD1141,Patricia Davis,patricia.davis@example.com,Female,Australia,2021-07-12,Books,8,411.4,2021-12-19,Cancelled
+ORD1155,Barbara Smith,barbara.smith@example.com,Male,United States,2021-06-03,Electronics,9,284.68,2021-08-27,Returned
+ORD1368,James Davis,james.davis@example.com,Female,Germany,2022-06-20,Toys,4,27.14,2022-10-09,Cancelled
+ORD1192,Jessica Johnson,jessica.johnson@example.com,Male,United Kingdom,2022-04-02,Sports,5,265.77,2022-06-08,Returned
+ORD1318,John Martinez,john.martinez@example.com,Male,United Kingdom,,Books,10,5.27,2023-11-01,Returned
+ORD1019,Karen Hernandez,karen.hernandez@example.com,Male,Unknown,2021-09-08,Electronics,8,101.25,2022-01-11,Delivered
+ORD1329,Patricia Anderson,patricia.anderson@example.com,Female,United Kingdom,2021-08-07,Home & Kitchen,7,494.99,2021-08-23,Cancelled
+ORD1051,Elizabeth Hernandez,elizabeth.hernandez@example.com,Male,United States,2021-02-01,Clothing,7,188.18,2021-11-19,Delivered
+ORD1039,Patricia Anderson,patricia.anderson@example.com,Male,United States,2022-03-18,Books,10,91.66,2023-03-03,Returned
+ORD1194,Sarah Smith,sarah.smith@example.com,Unknown,Australia,2023-03-27,Clothing,7,128.7,2023-10-07,Pending
+ORD1321,Richard Lopez,richard.lopez@example.com,Male,Unknown,2023-01-31,Sports,6,314.49,2023-11-10,Delivered
+ORD1189,James Garcia,james.garcia@example.com,Female,Germany,2021-04-12,Home & Kitchen,8,373.57,2022-01-23,Pending
+ORD1433,Richard Jones,unknown@unknown.com,Female,Canada,2022-09-01,Toys,8,65.11,2023-09-04,Cancelled
+ORD1361,William Gonzalez,unknown@unknown.com,Male,Australia,2022-01-09,Toys,10,271.46,2022-06-10,Returned
+ORD1215,Barbara Williams,barbara.williams@example.com,Female,Australia,2021-06-17,Books,1,115.16,2021-09-30,Cancelled
+ORD1006,Elizabeth Miller,elizabeth.miller@example.com,Male,United States,2023-06-19,Clothing,10,245.57,2024-07-16,Cancelled
+ORD1076,Sarah Rodriguez,sarah.rodriguez@example.com,Male,Australia,2021-12-14,Clothing,10,27.43,2022-08-14,Cancelled
+ORD1143,David Williams,david.williams@example.com,Male,United Kingdom,2022-11-25,Books,9,384.95,2023-10-23,Delivered
+ORD1047,Jessica Anderson,jessica.anderson@example.com,Male,Germany,2023-07-06,Electronics,1,216.01,2024-01-21,Delivered
+ORD1071,Barbara Jones,barbara.jones@example.com,Male,United States,2021-11-08,Sports,4,447.99,2022-09-30,Cancelled
+ORD1132,Richard Brown,richard.brown@example.com,Male,Australia,2022-12-26,Toys,3,283.96,2023-12-21,Delivered
+ORD1080,Sarah Rodriguez,sarah.rodriguez@example.com,Female,United Kingdom,2023-01-02,Books,5,414.84,2023-05-22,Delivered
+ORD1226,Mary Miller,mary.miller@example.com,Male,United Kingdom,2022-11-05,Clothing,2,339.98,2023-01-02,Delivered
+ORD1031,Robert Garcia,robert.garcia@example.com,Male,Germany,2021-08-26,Sports,8,135.95,2021-12-06,Delivered
+ORD1012,Robert Smith,robert.smith@example.com,Male,Germany,2021-12-24,Home & Kitchen,5,353.25,2022-11-24,Pending
+ORD1398,Patricia Hernandez,patricia.hernandez@example.com,Male,United Kingdom,2022-01-27,Electronics,5,43.98,2022-05-26,Cancelled
+ORD1151,Patricia Smith,patricia.smith@example.com,Female,Canada,2021-07-30,Sports,2,304.79,2021-09-22,Pending
+ORD1230,William Hernandez,unknown@unknown.com,Female,Australia,2021-12-23,Books,2,397.25,2022-07-23,Cancelled
+ORD1479,Patricia Johnson,patricia.johnson@example.com,Female,Canada,2023-01-26,Sports,6,493.2,2023-02-03,Returned
+ORD1297,Thomas Hernandez,thomas.hernandez@example.com,Male,Germany,2022-03-24,Books,5,451.94,2022-08-23,Delivered
+ORD1116,John Jones,john.jones@example.com,Male,United Kingdom,2022-09-23,Electronics,2,366.35,2022-12-04,Pending
+ORD1026,Thomas Rodriguez,thomas.rodriguez@example.com,Female,Germany,2021-09-09,Books,4,335.75,2022-02-23,Returned
+ORD1465,Susan Gonzalez,susan.gonzalez@example.com,Female,United Kingdom,2021-02-16,Clothing,10,390.88,2021-12-26,Cancelled
+ORD1196,James Davis,unknown@unknown.com,Male,Australia,2023-03-22,Clothing,1,273.88,2023-07-29,Delivered
+ORD1225,William Lopez,william.lopez@example.com,Male,Germany,2022-02-03,Home & Kitchen,6,47.96,2022-07-08,Pending
+ORD1307,Susan Wilson,susan.wilson@example.com,Female,United States,2021-03-28,Clothing,7,331.79,2021-04-27,Returned
+ORD1468,Susan Smith,susan.smith@example.com,Male,Australia,2023-05-30,Books,9,232.16,2024-03-21,Returned
+ORD1066,Susan Gonzalez,susan.gonzalez@example.com,Female,Australia,2023-03-28,Sports,7,412.06,2023-08-05,Pending
+ORD1292,Mary Jones,mary.jones@example.com,Female,Canada,2023-02-19,Books,3,383.02,2024-01-22,Delivered
+ORD1477,Barbara Anderson,barbara.anderson@example.com,Female,United Kingdom,2023-02-05,Home & Kitchen,9,167.58,2023-10-21,Pending
+ORD1270,Jessica Wilson,jessica.wilson@example.com,Male,Canada,2022-11-15,Electronics,10,96.47,2023-03-12,Pending
+ORD1070,Michael Jones,michael.jones@example.com,Female,Australia,2021-03-30,Sports,8,412.55,2022-02-22,Returned
+ORD1094,Barbara Garcia,barbara.garcia@example.com,Male,Unknown,2023-05-18,Sports,1,422.06,2023-05-23,Returned
+ORD1069,Michael Martinez,michael.martinez@example.com,Male,United States,2023-01-01,Sports,6,277.25,2023-03-23,Pending
+ORD1022,Charles Gonzalez,charles.gonzalez@example.com,Female,Australia,2022-07-14,Home & Kitchen,7,336.09,2023-03-11,Delivered
+ORD1078,Charles Davis,charles.davis@example.com,Male,Germany,,Sports,2,212.3,2023-08-13,Delivered
+ORD1387,Robert Thomas,robert.thomas@example.com,Male,Unknown,2021-06-16,Sports,10,216.07,2022-01-09,Cancelled
+ORD1326,Susan Williams,unknown@unknown.com,Male,Australia,2022-02-25,Sports,10,398.61,2022-08-18,Returned
+ORD1237,Karen Martinez,karen.martinez@example.com,Male,Germany,2021-10-26,Electronics,3,142.54,2022-03-07,Delivered
+ORD1452,Mary Rodriguez,unknown@unknown.com,Female,Germany,2021-03-21,Electronics,4,415.42,2021-10-26,Cancelled
+ORD1126,Linda Lopez,unknown@unknown.com,Female,United Kingdom,2023-05-26,Toys,4,397.94,2024-06-29,Cancelled
+ORD1229,Karen Anderson,karen.anderson@example.com,Male,Australia,2023-04-13,Home & Kitchen,8,76.14,2023-10-17,Cancelled
+ORD1447,John Davis,john.davis@example.com,Male,United Kingdom,2022-12-17,Books,2,138.8,2023-01-30,Pending
+ORD1043,James Rodriguez,james.rodriguez@example.com,Female,Canada,2022-04-28,Toys,6,36.29,2022-09-30,Delivered
+ORD1005,John Garcia,john.garcia@example.com,Male,Australia,2022-07-21,Electronics,9,173.39,2022-07-23,Cancelled
+ORD1346,Karen Lopez,karen.lopez@example.com,Female,Australia,2023-03-22,Electronics,10,197.34,2023-05-30,Cancelled
+ORD1065,John Williams,john.williams@example.com,Male,United Kingdom,2021-11-14,Toys,8,99.6,2022-10-16,Pending
+ORD1434,Jessica Jones,jessica.jones@example.com,Male,United States,2021-07-25,Clothing,10,262.08,2022-04-10,Returned
+ORD1110,Charles Thomas,charles.thomas@example.com,Male,Canada,2021-02-12,Books,2,216.24,2021-06-27,Delivered
+ORD1256,Barbara Anderson,unknown@unknown.com,Male,Unknown,2022-03-13,Toys,9,343.91,2022-11-04,Delivered
+ORD1206,Jessica Garcia,jessica.garcia@example.com,Male,United States,2023-03-10,Home & Kitchen,6,465.47,2024-03-27,Returned
+ORD1148,Joseph Jones,joseph.jones@example.com,Male,United Kingdom,2021-01-05,Clothing,10,382.97,2021-11-26,Returned
+ORD1007,Sarah Garcia,sarah.garcia@example.com,Female,United Kingdom,2022-11-19,Toys,8,172.35,2023-03-12,Delivered
+ORD1430,James Johnson,james.johnson@example.com,Female,Germany,2023-01-01,Sports,4,148.95,2023-05-09,Returned
+ORD1462,Thomas Hernandez,thomas.hernandez@example.com,Male,Germany,2021-08-14,Clothing,8,144.89,2022-05-06,Delivered
+ORD1339,William Wilson,william.wilson@example.com,Male,United States,2023-06-06,Clothing,5,240.02,2024-04-02,Returned
+ORD1404,Richard Williams,richard.williams@example.com,Female,Canada,2021-04-05,Home & Kitchen,3,243.4,2022-03-28,Pending
+ORD1260,Elizabeth Garcia,elizabeth.garcia@example.com,Female,United States,2022-04-12,Clothing,9,420.47,2022-06-30,Cancelled
+ORD1283,Robert Hernandez,robert.hernandez@example.com,Female,United States,2023-01-12,Toys,9,415.35,2023-05-21,Delivered
+ORD1123,Karen Davis,karen.davis@example.com,Female,Germany,2022-02-24,Home & Kitchen,1,330.37,2022-04-19,Cancelled
+ORD1079,Michael Hernandez,michael.hernandez@example.com,Female,Australia,2021-12-29,Clothing,4,471.04,2022-12-25,Returned
+ORD1443,Charles Johnson,charles.johnson@example.com,Female,United States,2021-05-13,Electronics,1,178.38,2021-09-07,Delivered
+ORD1417,Karen Williams,karen.williams@example.com,Female,United Kingdom,,Home & Kitchen,7,302.71,2022-01-06,Delivered
+ORD1152,Jessica Miller,jessica.miller@example.com,Male,Unknown,2022-05-24,Books,6,49.06,2023-02-01,Delivered
+ORD1164,Jennifer Brown,jennifer.brown@example.com,Female,Canada,,Home & Kitchen,10,309.73,2023-10-18,Delivered
+ORD1378,Richard Jones,richard.jones@example.com,Male,Germany,2021-08-31,Home & Kitchen,7,219.99,2022-09-25,Cancelled
+ORD1266,Linda Smith,linda.smith@example.com,Male,Germany,2023-09-06,Books,2,13.68,2023-08-23,Returned
+ORD1419,Joseph Thomas,joseph.thomas@example.com,Male,United States,2023-04-26,Home & Kitchen,7,363.43,2024-01-27,Delivered
+ORD1362,Elizabeth Jones,elizabeth.jones@example.com,Male,Germany,2023-05-19,Clothing,8,34.11,2024-05-20,Cancelled
+ORD1302,Sarah Williams,sarah.williams@example.com,Female,Canada,2021-01-22,Clothing,8,113.75,2021-11-27,Cancelled
+ORD1279,Jessica Brown,jessica.brown@example.com,Female,Canada,2022-01-08,Sports,2,147.24,2022-08-02,Delivered
+ORD1144,Elizabeth Rodriguez,elizabeth.rodriguez@example.com,Female,Australia,2023-04-25,Electronics,9,420.49,2023-09-17,Delivered
+ORD1471,Sarah Thomas,sarah.thomas@example.com,Male,Australia,2023-01-28,Books,2,85.24,2023-09-10,Delivered
+ORD1120,James Garcia,james.garcia@example.com,Female,Canada,2023-03-01,Books,5,487.65,2023-11-18,Delivered
+ORD1200,Sarah Garcia,sarah.garcia@example.com,Female,Australia,2022-06-03,Electronics,10,123.2,2023-03-06,Cancelled
+ORD1042,Barbara Jones,barbara.jones@example.com,Female,Germany,2021-10-07,Books,5,62.01,2022-01-31,Pending
+ORD1431,Patricia Rodriguez,patricia.rodriguez@example.com,Male,Canada,2023-02-26,Books,9,152.18,2023-05-31,Returned
+ORD1449,Karen Wilson,karen.wilson@example.com,Male,Canada,2022-10-08,Books,8,70.28,2022-12-29,Cancelled
+ORD1375,Patricia Martinez,patricia.martinez@example.com,Male,Germany,2021-11-09,Toys,8,232.88,2022-05-08,Returned
+ORD1232,Patricia Gonzalez,patricia.gonzalez@example.com,Male,United Kingdom,2022-11-08,Home & Kitchen,7,106.8,2023-10-22,Returned
+ORD1246,Jessica Anderson,unknown@unknown.com,Female,United States,2023-04-07,Toys,3,40.66,2023-04-17,Delivered
+ORD1374,James Wilson,james.wilson@example.com,Male,United States,2021-06-22,Home & Kitchen,3,214.25,2021-08-19,Cancelled
+ORD1367,Charles Brown,charles.brown@example.com,Male,United Kingdom,2023-03-31,Clothing,10,262.08,2023-03-06,Pending
+ORD1264,Susan Anderson,susan.anderson@example.com,Female,Germany,2021-01-08,Toys,6,379.28,2021-12-19,Cancelled
+ORD1030,Charles Johnson,charles.johnson@example.com,Female,United States,2022-09-13,Books,8,296.32,2022-10-14,Cancelled
+ORD1239,Barbara Johnson,barbara.johnson@example.com,Male,Australia,2023-02-04,Sports,7,435.79,2023-09-22,Pending
+ORD1251,Michael Wilson,michael.wilson@example.com,Female,United States,2023-03-16,Electronics,2,298.39,2024-02-26,Cancelled
+ORD1163,Richard Gonzalez,richard.gonzalez@example.com,Female,Canada,2023-03-11,Sports,6,303.68,2023-08-09,Cancelled
+ORD1150,John Hernandez,john.hernandez@example.com,Male,Australia,2023-01-15,Electronics,10,357.0,2023-09-12,Delivered
+ORD1425,David Thomas,david.thomas@example.com,Female,Unknown,2021-07-09,Sports,4,87.49,2021-07-16,Returned
+ORD1421,William Thomas,william.thomas@example.com,Female,United Kingdom,2021-03-18,Electronics,4,246.38,2022-12-04,Pending
+ORD1095,Karen Thomas,unknown@unknown.com,Unknown,Canada,2021-01-18,Clothing,2,124.28,2021-07-19,Returned
+ORD1222,Karen Johnson,karen.johnson@example.com,Male,Germany,2022-09-16,Toys,10,283.5,2023-05-27,Cancelled
+ORD1086,Michael Jones,michael.jones@example.com,Female,Germany,2022-06-07,Books,3,33.58,2023-06-13,Returned
+ORD1188,Karen Hernandez,karen.hernandez@example.com,Male,Canada,2021-10-14,Clothing,10,361.8,2022-04-28,Cancelled
+ORD1090,Thomas Davis,thomas.davis@example.com,Male,United States,2022-11-19,Home & Kitchen,7,96.02,2023-03-15,Cancelled
+ORD1359,Elizabeth Anderson,elizabeth.anderson@example.com,Male,United Kingdom,2023-02-11,Sports,1,451.81,2023-06-23,Delivered
+ORD1035,Elizabeth Anderson,elizabeth.anderson@example.com,Male,United Kingdom,2022-07-20,Electronics,8,81.22,2023-07-17,Returned
+ORD1218,Sarah Jones,sarah.jones@example.com,Male,United Kingdom,2021-11-28,Electronics,2,184.66,2022-08-17,Returned
+ORD1073,Elizabeth Thomas,elizabeth.thomas@example.com,Female,United States,2022-05-11,Toys,3,368.43,2022-07-17,Delivered
+ORD1221,Susan Garcia,susan.garcia@example.com,Male,Canada,2021-03-11,Books,2,37.14,2022-03-24,Returned
+ORD1403,Sarah Jones,sarah.jones@example.com,Male,Germany,2023-08-04,Books,4,476.56,2024-02-28,Delivered
+ORD1466,James Gonzalez,james.gonzalez@example.com,Female,United States,2022-07-03,Toys,7,401.64,2022-10-22,Delivered
+ORD1111,Patricia Davis,patricia.davis@example.com,Female,United Kingdom,2023-04-14,Toys,6,88.35,2024-02-02,Delivered
+ORD1013,John Rodriguez,john.rodriguez@example.com,Male,United Kingdom,2022-12-10,Home & Kitchen,1,141.96,2023-04-09,Cancelled
+ORD1199,John Brown,john.brown@example.com,Female,United States,2021-05-18,Books,8,247.6,2021-10-31,Pending
+ORD1214,Patricia Garcia,patricia.garcia@example.com,Male,Australia,2023-03-02,Clothing,2,493.05,2023-12-14,Cancelled
+ORD1493,Elizabeth Wilson,elizabeth.wilson@example.com,Female,Australia,2022-08-08,Toys,9,348.66,2022-11-27,Pending
+ORD1235,Sarah Anderson,sarah.anderson@example.com,Unknown,Australia,2022-05-29,Toys,10,286.23,2023-01-31,Cancelled
+ORD1470,Michael Thomas,michael.thomas@example.com,Female,Germany,2023-02-18,Books,5,417.99,2023-12-22,Delivered
+ORD1392,Susan Thomas,susan.thomas@example.com,Female,United Kingdom,2022-05-25,Clothing,7,265.84,2022-09-15,Cancelled
+ORD1439,Richard Wilson,richard.wilson@example.com,Unknown,United States,2022-09-14,Home & Kitchen,2,494.49,2023-01-22,Returned
+ORD1097,Charles Thomas,charles.thomas@example.com,Female,United States,2021-11-19,Toys,3,202.16,2022-03-23,Pending
+ORD1354,Charles Lopez,charles.lopez@example.com,Male,United States,2021-01-02,Sports,7,367.86,2021-12-29,Cancelled
+ORD1298,Thomas Wilson,thomas.wilson@example.com,Female,Unknown,2023-01-29,Clothing,7,353.67,2024-02-21,Pending
+ORD1064,Thomas Smith,thomas.smith@example.com,Female,United States,2021-12-20,Sports,2,169.6,2022-11-15,Returned
+ORD1223,Michael Smith,michael.smith@example.com,Male,Australia,,Clothing,5,153.64,2022-02-22,Pending
+ORD1096,Richard Anderson,richard.anderson@example.com,Male,United States,2022-01-24,Electronics,1,423.44,2022-03-14,Cancelled
+ORD1014,Susan Smith,susan.smith@example.com,Unknown,Canada,,Home & Kitchen,1,128.52,2022-10-12,Cancelled
+ORD1328,William Martinez,unknown@unknown.com,Male,Germany,2021-07-20,Clothing,2,348.92,2022-06-01,Pending
+ORD1018,Sarah Jones,sarah.jones@example.com,Female,Canada,2021-01-01,Books,10,223.68,2022-01-13,Delivered
+ORD1409,Susan Johnson,susan.johnson@example.com,Female,Germany,2022-08-09,Books,4,30.53,2023-07-01,Cancelled
+ORD1247,John Smith,unknown@unknown.com,Female,United Kingdom,2021-04-19,Toys,4,171.98,2021-11-11,Delivered
+ORD1437,Jennifer Lopez,jennifer.lopez@example.com,Male,Germany,2021-06-28,Sports,10,394.41,2021-12-01,Delivered
+ORD1208,John Jones,john.jones@example.com,Female,Germany,2021-09-06,Books,6,60.7,2021-12-13,Pending
+ORD1308,Sarah Martinez,sarah.martinez@example.com,Female,Germany,2022-12-19,Clothing,9,223.86,2023-11-17,Cancelled
+ORD1484,James Garcia,james.garcia@example.com,Male,Canada,2021-07-10,Toys,8,366.82,2022-07-16,Pending
+ORD1345,Jennifer Garcia,jennifer.garcia@example.com,Female,United Kingdom,2022-02-09,Clothing,2,204.06,2022-10-02,Delivered
+ORD1372,David Johnson,david.johnson@example.com,Female,Australia,2022-03-26,Toys,5,471.13,2022-08-30,Pending
+ORD1389,John Davis,john.davis@example.com,Male,United States,2022-06-08,Clothing,1,179.89,2023-05-25,Delivered
+ORD1407,Jennifer Anderson,jennifer.anderson@example.com,Male,Canada,2022-03-24,Electronics,2,326.56,2022-12-04,Returned
+ORD1040,David Anderson,unknown@unknown.com,Female,United Kingdom,2021-12-20,Books,5,499.69,2022-04-07,Pending
+ORD1087,Michael Williams,michael.williams@example.com,Male,Unknown,2022-02-23,Sports,7,227.03,2022-04-06,Pending
+ORD1182,Richard Gonzalez,richard.gonzalez@example.com,Male,Australia,2022-04-11,Toys,9,88.89,2022-11-05,Delivered
+ORD1385,John Rodriguez,john.rodriguez@example.com,Male,Unknown,2021-12-22,Sports,9,449.68,2022-11-08,Pending
+ORD1146,Linda Thomas,linda.thomas@example.com,Female,Germany,2022-04-28,Sports,9,341.46,2022-10-27,Pending
+ORD1159,Richard Miller,richard.miller@example.com,Female,United States,2022-04-07,Toys,3,369.43,2023-02-01,Cancelled
+ORD1454,Mary Jones,mary.jones@example.com,Male,United Kingdom,2021-05-05,Sports,9,101.54,2021-10-21,Pending
+ORD1413,Charles Johnson,charles.johnson@example.com,Female,Unknown,2022-06-19,Clothing,10,258.31,2022-08-17,Delivered
+ORD1290,John Smith,john.smith@example.com,Female,Unknown,2021-05-17,Books,4,369.37,2021-06-17,Pending
+ORD1435,Elizabeth Gonzalez,elizabeth.gonzalez@example.com,Male,Germany,2022-11-05,Sports,1,330.45,2023-08-12,Returned
+ORD1201,Sarah Jones,sarah.jones@example.com,Female,United States,2021-05-13,Clothing,2,287.65,2022-07-02,Delivered
+ORD1293,Linda Garcia,linda.garcia@example.com,Female,Australia,2022-12-28,Electronics,3,434.75,2023-09-15,Cancelled
+ORD1349,James Williams,james.williams@example.com,Male,United Kingdom,2021-06-27,Electronics,7,362.23,2021-02-11,Pending
+ORD1072,Sarah Williams,sarah.williams@example.com,Male,Germany,2022-08-01,Electronics,2,290.5,2023-03-03,Returned
+ORD1429,Charles Lopez,charles.lopez@example.com,Female,United Kingdom,2022-11-12,Home & Kitchen,2,25.27,2022-12-10,Pending
+ORD1467,Thomas Brown,thomas.brown@example.com,Male,United States,,Sports,2,203.37,2023-01-19,Delivered
+ORD1410,Thomas Garcia,thomas.garcia@example.com,Male,Germany,2022-05-10,Clothing,6,221.52,2022-10-20,Returned
+ORD1492,Sarah Gonzalez,sarah.gonzalez@example.com,Male,Australia,2021-12-20,Clothing,9,166.66,2022-12-26,Returned
+ORD1107,Michael Rodriguez,michael.rodriguez@example.com,Male,Germany,2021-07-21,Sports,8,300.5,2022-01-16,Returned
+ORD1352,Patricia Gonzalez,patricia.gonzalez@example.com,Female,Canada,2022-10-13,Sports,7,124.96,2023-09-02,Cancelled
+ORD1436,Patricia Thomas,patricia.thomas@example.com,Female,Unknown,2022-04-14,Electronics,10,224.43,2022-10-13,Returned
+ORD1134,Susan Garcia,susan.garcia@example.com,Female,United States,2022-08-15,Electronics,1,476.07,2023-02-24,Delivered
+ORD1061,John Rodriguez,john.rodriguez@example.com,Female,Germany,2023-02-21,Toys,3,455.7,2023-03-07,Delivered
+ORD1027,David Hernandez,david.hernandez@example.com,Unknown,United Kingdom,2022-02-21,Clothing,8,397.5,2023-02-11,Pending
+ORD1394,Charles Williams,charles.williams@example.com,Male,United Kingdom,2021-01-13,Clothing,8,350.79,2021-07-05,Delivered
+ORD1101,Robert Garcia,robert.garcia@example.com,Female,United Kingdom,2021-07-20,Home & Kitchen,1,312.0,2022-01-08,Cancelled
+ORD1020,Linda Garcia,linda.garcia@example.com,Female,United States,2022-04-21,Books,10,216.24,2022-07-12,Returned
+ORD1432,Joseph Hernandez,joseph.hernandez@example.com,Female,Australia,2022-04-18,Electronics,7,453.89,2022-10-27,Pending
+ORD1265,Charles Jones,charles.jones@example.com,Female,Canada,2022-07-27,Electronics,3,417.95,2022-12-22,Cancelled
+ORD1277,Jennifer Johnson,jennifer.johnson@example.com,Female,Canada,2022-08-28,Home & Kitchen,6,383.77,2023-05-04,Pending
+ORD1009,William Brown,william.brown@example.com,Female,Canada,2021-03-19,Toys,2,418.83,2021-07-19,Returned
+ORD1364,Charles Jones,charles.jones@example.com,Male,United Kingdom,2023-05-27,Clothing,7,421.62,2024-01-25,Delivered
+ORD1310,Barbara Rodriguez,barbara.rodriguez@example.com,Male,Unknown,2021-12-14,Toys,10,334.43,2022-05-17,Cancelled
+ORD1284,William Hernandez,william.hernandez@example.com,Male,United States,2021-10-09,Toys,1,474.61,2022-09-24,Pending
+ORD1427,William Anderson,william.anderson@example.com,Female,Australia,2021-05-11,Sports,10,262.06,2022-06-04,Cancelled
+ORD1093,Jessica Hernandez,jessica.hernandez@example.com,Female,Unknown,2022-07-21,Clothing,6,126.64,2023-10-01,Returned
+ORD1253,Charles Johnson,charles.johnson@example.com,Female,Canada,2022-09-11,Sports,10,278.61,2023-06-06,Cancelled
+ORD1033,Charles Smith,charles.smith@example.com,Unknown,United Kingdom,2022-03-29,Toys,7,50.16,2023-03-08,Cancelled
+ORD1136,Jessica Jones,unknown@unknown.com,Male,Germany,2021-01-27,Home & Kitchen,2,393.51,2021-06-12,Returned
+ORD1023,James Williams,james.williams@example.com,Female,Australia,2021-01-12,Books,5,216.24,2022-09-04,Pending
+ORD1063,Patricia Johnson,patricia.johnson@example.com,Female,Australia,2022-10-10,Home & Kitchen,7,287.48,2023-06-07,Delivered
+ORD1149,Richard Smith,richard.smith@example.com,Female,Unknown,2021-01-05,Home & Kitchen,5,296.39,2021-07-06,Returned
+ORD1216,Jessica Hernandez,jessica.hernandez@example.com,Female,Germany,2023-08-01,Sports,10,438.51,2023-08-28,Delivered
+ORD1472,Thomas Thomas,thomas.thomas@example.com,Unknown,United States,2023-08-01,Toys,6,148.65,2024-09-01,Pending
+ORD1258,Barbara Anderson,barbara.anderson@example.com,Male,Germany,2022-01-12,Books,2,147.74,2022-06-03,Cancelled
+ORD1053,Michael Jones,michael.jones@example.com,Male,Australia,2022-06-30,Sports,6,25.94,2022-12-08,Returned
+ORD1460,Patricia Miller,patricia.miller@example.com,Male,United States,2021-07-19,Electronics,6,287.73,2022-09-03,Delivered
+ORD1174,Charles Jones,charles.jones@example.com,Female,Australia,,Clothing,9,262.08,2022-12-13,Delivered
+ORD1036,Linda Anderson,linda.anderson@example.com,Male,Australia,2022-04-06,Home & Kitchen,5,331.67,2023-07-02,Pending
+ORD1179,Thomas Wilson,thomas.wilson@example.com,Female,Germany,2021-09-18,Electronics,5,132.61,2021-09-22,Delivered
+ORD1168,Richard Wilson,richard.wilson@example.com,Unknown,Germany,2022-08-23,Electronics,6,394.51,2023-09-19,Returned
+ORD1227,Mary Williams,mary.williams@example.com,Male,Canada,2021-11-16,Clothing,5,223.35,2022-04-06,Delivered
+ORD1121,Jennifer Lopez,jennifer.lopez@example.com,Male,United States,,Home & Kitchen,7,480.37,2022-01-14,Cancelled
+ORD1473,William Jones,william.jones@example.com,Female,United Kingdom,2021-06-01,Clothing,2,35.25,2021-07-05,Pending
+ORD1276,Sarah Smith,unknown@unknown.com,Female,Canada,2021-02-06,Sports,5,218.19,2022-03-05,Returned
+ORD1045,Linda Lopez,linda.lopez@example.com,Female,United Kingdom,2023-04-24,Clothing,10,170.09,2023-08-08,Cancelled
+ORD1301,Michael Martinez,michael.martinez@example.com,Unknown,Australia,,Books,8,467.96,2023-05-24,Delivered
+ORD1325,William Johnson,william.johnson@example.com,Male,Germany,2022-10-03,Electronics,1,445.59,2022-11-04,Delivered
+ORD1077,John Hernandez,john.hernandez@example.com,Female,Canada,2023-04-29,Home & Kitchen,8,338.53,2024-05-05,Returned
+ORD1209,Elizabeth Garcia,elizabeth.garcia@example.com,Female,United States,2022-01-18,Electronics,2,312.4,2022-06-15,Pending
+ORD1369,John Wilson,john.wilson@example.com,Female,United States,2022-12-13,Electronics,5,100.35,2023-09-01,Returned
+ORD1213,John Wilson,john.wilson@example.com,Female,United Kingdom,2022-12-02,Home & Kitchen,9,454.96,2023-09-18,Pending
+ORD1268,Barbara Jones,barbara.jones@example.com,Female,United Kingdom,2022-05-31,Toys,10,423.8,2022-07-29,Returned
+ORD1312,Jessica Wilson,jessica.wilson@example.com,Male,United Kingdom,,Clothing,9,302.79,2023-01-30,Delivered
+ORD1217,Richard Johnson,richard.johnson@example.com,Male,Australia,2021-10-20,Home & Kitchen,10,452.32,2021-12-06,Cancelled
+ORD1487,Richard Miller,richard.miller@example.com,Female,United States,2023-02-21,Home & Kitchen,5,215.17,2023-10-30,Cancelled
+ORD1010,Richard Johnson,unknown@unknown.com,Female,Australia,2023-01-19,Home & Kitchen,4,273.39,2023-11-15,Cancelled
+ORD1453,Barbara Hernandez,barbara.hernandez@example.com,Female,Unknown,2022-01-13,Clothing,10,404.98,2022-01-10,Cancelled
+ORD1474,Michael Rodriguez,michael.rodriguez@example.com,Female,Canada,2021-09-18,Clothing,2,135.15,2022-07-16,Pending
+ORD1286,Jennifer Anderson,jennifer.anderson@example.com,Female,United States,2022-02-27,Electronics,3,179.17,2023-12-03,Returned
+ORD1296,Elizabeth Jones,elizabeth.jones@example.com,Female,Germany,2021-09-04,Books,8,283.71,2021-10-15,Returned
+ORD1105,Charles Jones,unknown@unknown.com,Male,United States,2023-01-18,Home & Kitchen,8,177.41,2023-07-09,Delivered
+ORD1313,Barbara Martinez,barbara.martinez@example.com,Female,United Kingdom,2021-09-11,Sports,8,38.44,2022-04-17,Pending
+ORD1278,Linda Davis,linda.davis@example.com,Male,United States,,Sports,7,136.98,2022-12-16,Returned
+ORD1092,William Martinez,unknown@unknown.com,Male,Australia,2022-12-22,Clothing,9,235.79,2023-06-25,Returned
+ORD1183,Barbara Gonzalez,barbara.gonzalez@example.com,Male,Germany,2022-07-27,Home & Kitchen,4,465.21,2023-02-21,Delivered
+ORD1316,James Hernandez,james.hernandez@example.com,Female,United States,2021-10-20,Electronics,3,88.75,2021-11-03,Pending
+ORD1173,Sarah Rodriguez,sarah.rodriguez@example.com,Female,United Kingdom,2022-05-29,Toys,1,404.24,2023-02-17,Returned
+ORD1233,Charles Smith,charles.smith@example.com,Male,Unknown,2022-07-28,Home & Kitchen,1,200.16,2023-02-09,Cancelled
+ORD1347,William Thomas,unknown@unknown.com,Female,United Kingdom,2022-09-24,Sports,7,34.66,2022-12-11,Cancelled
+ORD1037,Richard Anderson,richard.anderson@example.com,Male,Australia,2022-04-30,Sports,3,253.63,2022-12-12,Returned
+ORD1157,Charles Anderson,charles.anderson@example.com,Female,United States,2021-02-06,Toys,10,283.35,2021-07-31,Delivered
+ORD1003,Linda Martinez,linda.martinez@example.com,Male,Canada,2021-03-08,Sports,2,365.92,2022-06-27,Pending
+ORD1243,Patricia Jones,patricia.jones@example.com,Male,United States,2022-09-08,Electronics,8,466.78,2023-03-08,Returned
+ORD1309,Sarah Hernandez,sarah.hernandez@example.com,Male,Canada,2022-07-20,Sports,3,272.27,2022-12-23,Delivered
+ORD1446,Sarah Miller,sarah.miller@example.com,Female,Canada,2021-10-27,Home & Kitchen,6,31.73,2022-09-11,Pending
+ORD1049,Richard Wilson,richard.wilson@example.com,Female,United Kingdom,2023-05-02,Electronics,6,295.3,2023-07-04,Pending
+ORD1415,Jessica Wilson,jessica.wilson@example.com,Female,Germany,2022-04-08,Sports,2,479.26,2023-10-06,Returned
+ORD1422,John Brown,john.brown@example.com,Female,Germany,2022-02-14,Books,3,290.73,2022-04-10,Cancelled
+ORD1142,James Garcia,james.garcia@example.com,Unknown,United States,2021-08-10,Toys,7,20.13,2022-01-07,Pending
+ORD1224,Karen Smith,karen.smith@example.com,Female,United States,2022-10-05,Toys,6,464.26,2023-07-22,Delivered
+ORD1353,John Rodriguez,john.rodriguez@example.com,Male,United States,2022-08-24,Clothing,7,347.46,2023-08-03,Returned
+ORD1184,Patricia Rodriguez,patricia.rodriguez@example.com,Female,Germany,2023-02-15,Books,8,243.58,2023-06-08,Pending
+ORD1332,David Jones,david.jones@example.com,Female,Australia,2021-06-21,Sports,9,93.6,2022-02-24,Returned
+ORD1497,John Gonzalez,john.gonzalez@example.com,Male,United States,2023-06-05,Sports,7,112.79,2024-04-07,Delivered
+ORD1476,Patricia Davis,patricia.davis@example.com,Female,Germany,2022-09-12,Sports,5,282.44,2023-08-29,Returned
+ORD1161,Elizabeth Lopez,elizabeth.lopez@example.com,Male,Canada,2021-12-27,Sports,7,269.28,2022-01-03,Delivered
+ORD1337,Elizabeth Smith,elizabeth.smith@example.com,Female,Australia,2023-02-21,Electronics,10,81.08,2024-01-10,Returned
+ORD1401,Karen Jones,karen.jones@example.com,Female,Australia,2023-06-18,Sports,1,411.51,2023-11-14,Cancelled
+ORD1220,Linda Miller,linda.miller@example.com,Female,Germany,2022-07-15,Toys,4,328.37,2023-06-22,Pending
+ORD1100,Sarah Wilson,sarah.wilson@example.com,Male,Unknown,2022-02-28,Sports,9,288.12,2022-11-05,Pending
+ORD1381,Jennifer Johnson,jennifer.johnson@example.com,Female,Canada,2021-09-07,Home & Kitchen,6,11.76,2021-12-26,Pending
+ORD1236,David Anderson,david.anderson@example.com,Male,United States,2021-11-16,Toys,1,237.27,2022-04-16,Cancelled
+ORD1459,William Garcia,unknown@unknown.com,Male,Germany,2021-12-22,Home & Kitchen,5,88.81,2022-10-29,Cancelled
+ORD1118,Charles Wilson,charles.wilson@example.com,Unknown,United States,2021-02-10,Books,9,384.72,2022-01-04,Pending
+ORD1342,Thomas Hernandez,thomas.hernandez@example.com,Unknown,United States,2022-11-23,Sports,7,10.31,2023-05-10,Returned
+ORD1002,William Rodriguez,william.rodriguez@example.com,Female,United States,2022-11-09,Sports,8,192.37,2023-07-25,Cancelled
+ORD1114,Joseph Smith,joseph.smith@example.com,Unknown,Australia,2021-05-16,Home & Kitchen,2,189.06,2021-05-12,Cancelled
+ORD1034,Jessica Martinez,jessica.martinez@example.com,Male,Canada,2023-03-03,Electronics,9,261.63,2023-10-16,Cancelled
+ORD1175,David Rodriguez,david.rodriguez@example.com,Female,United States,2021-08-17,Home & Kitchen,8,8.27,2021-12-13,Pending
+ORD1254,Joseph Rodriguez,joseph.rodriguez@example.com,Male,Germany,2022-08-29,Electronics,7,224.43,2023-05-28,Returned
+ORD1494,Jennifer Rodriguez,unknown@unknown.com,Female,Canada,2021-01-20,Home & Kitchen,5,319.25,2022-01-19,Cancelled
+ORD1456,Patricia Williams,patricia.williams@example.com,Male,United Kingdom,2021-01-16,Home & Kitchen,9,54.99,2021-01-29,Delivered
+ORD1441,Jessica Lopez,jessica.lopez@example.com,Male,Australia,2021-11-05,Books,4,16.16,2021-09-17,Pending
+ORD1185,Thomas Smith,thomas.smith@example.com,Female,Canada,2021-07-02,Clothing,10,343.14,2021-10-13,Cancelled
+ORD1166,Linda Davis,linda.davis@example.com,Female,United States,,Toys,6,245.97,2023-06-26,Delivered
+ORD1448,James Gonzalez,unknown@unknown.com,Male,Australia,2021-11-09,Home & Kitchen,1,171.43,2022-11-30,Delivered
+ORD1373,Robert Williams,robert.williams@example.com,Male,United States,2022-05-20,Books,9,251.41,2023-02-17,Returned
+ORD1275,John Smith,unknown@unknown.com,Male,United Kingdom,2021-12-01,Toys,2,262.37,2022-05-01,Returned
+ORD1490,David Brown,david.brown@example.com,Female,Australia,2022-02-07,Clothing,7,338.99,2023-06-30,Cancelled
+ORD1193,Sarah Rodriguez,sarah.rodriguez@example.com,Male,Germany,2022-10-17,Books,9,157.39,2022-10-23,Cancelled
+ORD1001,Patricia Smith,patricia.smith@example.com,Male,Germany,2021-02-02,Clothing,9,359.43,2021-09-20,Delivered
+ORD1055,John Davis,john.davis@example.com,Male,United States,2022-10-06,Toys,10,284.42,2023-08-24,Cancelled
+ORD1376,Susan Thomas,susan.thomas@example.com,Male,Australia,2022-04-11,Books,6,95.18,2023-06-17,Cancelled
+ORD1029,Barbara Garcia,barbara.garcia@example.com,Unknown,United States,2021-05-10,Electronics,10,173.65,2022-01-10,Delivered
+ORD1207,Mary Hernandez,mary.hernandez@example.com,Male,Australia,2022-08-13,Home & Kitchen,7,240.55,2022-12-26,Returned
+ORD1384,Thomas Gonzalez,thomas.gonzalez@example.com,Female,United Kingdom,2021-01-10,Sports,9,151.7,2021-05-05,Cancelled
+ORD1406,Michael Wilson,michael.wilson@example.com,Female,United Kingdom,2022-01-08,Home & Kitchen,9,252.07,2022-08-07,Returned
+ORD1050,Susan Johnson,susan.johnson@example.com,Female,United Kingdom,2021-08-18,Toys,6,116.95,2022-09-15,Pending
+ORD1351,Elizabeth Anderson,elizabeth.anderson@example.com,Female,Australia,,Toys,6,470.44,2022-03-22,Delivered
+ORD1021,David Thomas,david.thomas@example.com,Male,Canada,2021-03-24,Books,3,206.76,2021-07-08,Returned
+ORD1294,James Garcia,james.garcia@example.com,Female,United States,2022-11-28,Toys,2,45.13,2023-07-19,Delivered
+ORD1177,Jennifer Gonzalez,jennifer.gonzalez@example.com,Male,United Kingdom,2022-04-28,Books,10,384.91,2022-07-23,Returned
+ORD1336,Linda Davis,linda.davis@example.com,Male,Germany,2022-04-18,Home & Kitchen,4,211.76,2022-04-05,Cancelled
+ORD1380,John Wilson,john.wilson@example.com,Male,Canada,2021-08-25,Books,1,155.62,2022-02-21,Cancelled
+ORD1172,William Thomas,william.thomas@example.com,Female,United Kingdom,2023-05-30,Clothing,5,365.08,2024-04-18,Returned
+ORD1153,Patricia Rodriguez,patricia.rodriguez@example.com,Female,United States,2023-05-23,Sports,6,265.77,2023-08-02,Pending
+ORD1414,Robert Jones,robert.jones@example.com,Male,Canada,2022-05-23,Books,4,423.79,2022-07-15,Cancelled
+ORD1317,John Wilson,john.wilson@example.com,Male,Germany,2022-06-05,Home & Kitchen,1,37.4,2022-06-15,Delivered
+ORD1259,Michael Smith,michael.smith@example.com,Male,Australia,2021-10-26,Clothing,9,174.68,2022-08-26,Returned
+ORD1475,Charles Rodriguez,charles.rodriguez@example.com,Female,United Kingdom,2023-04-03,Books,1,30.83,2024-03-09,Pending
+ORD1338,Robert Gonzalez,robert.gonzalez@example.com,Female,United States,,Clothing,2,106.92,2023-12-16,Pending
+ORD1399,Thomas Hernandez,thomas.hernandez@example.com,Female,Australia,2023-03-04,Toys,10,315.76,2023-05-17,Delivered
+ORD1424,Karen Rodriguez,karen.rodriguez@example.com,Female,United Kingdom,2021-02-24,Clothing,2,441.89,2021-09-14,Cancelled
+ORD1481,Jennifer Hernandez,jennifer.hernandez@example.com,Male,Canada,2023-01-12,Sports,4,158.69,2023-06-04,Pending
+ORD1423,Jennifer Rodriguez,jennifer.rodriguez@example.com,Female,Germany,2021-08-06,Books,9,188.04,2022-03-11,Pending
